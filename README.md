@@ -8,7 +8,7 @@
 - 👀 我感兴趣的领域：编程 和 写作。
 - 🌱 我现在正在学习函数式编程以及如何成为一名自由职业者。
 - 💞️ 我想找到一起做技术写作的伙伴，作为一个团队，拥有更大的力量。
-- 📫 你可以添加我的微信：anthony1453，我可以拉你进入群聊，一同学习成长。
+- 📫 你可以添加我的微信：atar53，我可以拉你进入群聊，一同学习成长。
 
 <!---
 TUARAN/TUARAN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
