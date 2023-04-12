@@ -1,14 +1,13 @@
-- 👋 Hi, I’m @TUARAN AKA juejinAnthony.
-- 👀 I’m interested in programming and writing.
-- 🌱 I’m currently learning functional programming and How to Freelance.
-- 💞️ I’m looking to collaborate on technical writing.
-- 📫 How to reach me: my wechat: anthony1453, I can pull you into the group chat.
+- 👋 Hi, 这里是 @TUARAN，AKA 掘金安东尼
+- 👀 我感兴趣的领域：编程 和 写作
+- 🚀 我活跃在各技术社区，比如掘金、知乎、头条等
+- 🌎 我偏爱使用 Notion 工具作整理
+- 🌱 我现在正在学习如何成为一名自由职业者
+- 💞️ 我想找到一起做技术写作的伙伴，作为一个团队，拥有更大的力量
+- 📫 你可以添加我的微信：ATAR53，一同学习成长
+- 🌞 2023.4.12 以后我将投入更多的精力在 Github 上
 
-- 👋 Hi, I’m @TUARAN AKA 掘金安东尼。
-- 👀 我感兴趣的领域：编程 和 写作。
-- 🌱 我现在正在学习函数式编程以及如何成为一名自由职业者。
-- 💞️ 我想找到一起做技术写作的伙伴，作为一个团队，拥有更大的力量。
-- 📫 你可以添加我的微信：atar53，我可以拉你进入群聊，一同学习成长。
+![tuaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuaran&show_icons=true&theme=radical)
 
 <!---
 TUARAN/TUARAN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
