@@ -20,16 +20,20 @@
 
 ## 📅 关于我
 
+<p align="center">
+  <img src="./assets/timeline.png" alt="Timeline" width="600" />
+</p>
+
 <pre>
 2016 ── 开始编程学习
   │
-2018 ── 本科毕业（华南师大）
+2018 ── 本科毕业<a href="https://www.scnu.edu.cn/">（华南师大）</a>
   │
-2019 ── 入职某大厂 · 开始技术写作
+2019 ── 入职某大厂<a href="https://996.icu/#/">（996.icu）</a> · 开始技术写作
   │
 2020 ── <a href="https://juejin.cn/user/1521379823340792">掘金优秀作者</a>
   │
-2021 ── 入职某央企 · 编程 + PMP 项目
+2021 ── 入职某央企<a href="https://github.com/formulahendry/955.WLB">（955.WLB）</a> · 编程 + PMP 项目
   │
 2023 ── 出版<a href="https://item.jd.com/14356664.html">《程序员成长手记》</a> 书籍
   │
@@ -37,14 +41,14 @@
   │
 2025 ── 发起<a href="https://blogger-alliance.cn">「博主联盟」</a> · 共创<a href="https://frontendweekly.cn/">「前端周刊」</a>
   │
-2026 ── LLM+ 工作 · 创作 · 出版
+2026 ── 创立 <a href="https://tuaran.github.io/julian-tech-website/">@矩联科技</a> · LLM+ 工作 / 创作 / 出版
 </pre>
 
 |    项目    | 信息                                                                                                                                                            | 说明                           |
 | :---------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------- |
-|   🌐 主页   | [https://tuaran.me](https://tuaran.me)                                                                                                                             | 编程 / 创作 / 生活记录         |
+|   🌐 主页   | [网络日志](https://tuaran.me)                                                                                                                             | 编程 / 创作 / 生活记录         |
 | 💬 联系方式 | 微信 `atar24` ｜ [tuaran666@gmail.com](mailto:tuaran666@gmail.com)                                                                                               | 交流 / 合作                    |
-|  📊 影响力  | [全网 500 篇+ 文章，阅读量超 400 万+](https://csdn-fans-tracker.pages.dev/)                                                                                        | 持续增长中                     |
+| ​📊 影响力​ | [全网 500 篇+ 文章，阅读量超 400 万+](https://csdn-fans-tracker.pages.dev/)                                                                                        | 输入决定输出                     |
 | 🔗 社交平台 | [掘金](https://juejin.cn/user/1521379823340792) ｜ [小红书](https://www.xiaohongshu.com/user/profile/68b313f9000000001901d07e) ｜ [CSDN](https://blog.csdn.net/aifs2025) | 技术博主 / 社区活跃 / 社区共建 |
 
 ---
@@ -64,14 +68,14 @@
 
 ## 🏗 发起项目 & 工具箱
 
-| # |                                                 项目 / 工具                                                 | 简介                               |   类型   |   状态   |
-| :-: | :---------------------------------------------------------------------------------------------------------: | :--------------------------------- | :------: | :-------: |
-| 1 |     🤝[**博主联盟**](https://github.com/TUARAN/blogger-alliance) · [站点](https://blogger-alliance.cn)     | 开发者博主联盟平台，链接创作与推广 | 开源项目 | 🟢 运营中 |
-| 2 | 📰[**前端周刊**](https://github.com/TUARAN/frontend-weekly-digest-cn) · [站点](https://frontendweekly.cn/) | 每周更新国外论坛的前端热门文章     | 开源项目 | 🟢 运营中 |
-| 3 |                               🔥[安东尼学AI](https://matrix-ai-pdfs.pages.dev/)                               | AI 学习资料整理与分享              |  工具站  | 🟢 已上线 |
-| 4 |                             🎨[Banana Gallery](https://banana-gallery.pages.dev/)                             | 创意图库工具                       |  工具站  | 🟢 已上线 |
-| 5 |                            💡[提示词工程](https://awesome-prompt-seven.vercel.app/)                            | Prompt Engineering 实践参考        |  工具站  | 🟢 已上线 |
-| 6 |                                  🛠[代码矿工](https://toolkit-hub.pages.dev/)                                  | 开发者效率工具集                   |  工具站  | 🟢 已上线 |
+| # | 项目 / 工具 | 简介 | GitHub | 站点 | 类型 | 状态 |
+| :-: | :--- | :--- | :---: | :---: | :---: | :---: |
+| 1 | 🤝 **博主联盟** | 开发者博主联盟平台，链接创作与推广 | [GitHub](https://github.com/TUARAN/blogger-alliance) | [站点](https://blogger-alliance.cn) | 开源项目 | 🟢 运营中 |
+| 2 | 📰 **前端周刊** | 每周更新国外论坛的前端热门文章 | [GitHub](https://github.com/TUARAN/frontend-weekly-digest-cn) | [站点](https://frontendweekly.cn/) | 开源项目 | 🟢 运营中 |
+| 3 | 🔥 安东尼学AI | AI 学习资料整理与分享 | [GitHub](https://github.com/TUARAN/AI-Learning-Library) | [站点](https://matrix-ai-pdfs.pages.dev/) | 工具站 | 🟢 已上线 |
+| 4 | 🎨 Banana Gallery | 创意图库工具 | [GitHub](https://github.com/TUARAN/Awesome-Nano-Banana-images) | [站点](https://banana-gallery.pages.dev/) | 工具站 | 🟢 已上线 |
+| 5 | 💡 提示词工程 | Prompt Engineering 实践参考 | [GitHub](https://github.com/TUARAN/awesome-prompt) | [站点](https://awesome-prompt-seven.vercel.app/) | 工具站 | 🟢 已上线 |
+| 6 | 🛠 代码矿工 | 开发者效率工具集 | [GitHub](https://github.com/TUARAN/toolkit-hub) | [站点](https://toolkit-hub.pages.dev/) | 工具站 | 🟢 已上线 |
 
 ---
 

@@ -20,16 +20,20 @@
 
 ## 📅 About Me
 
+<p align="center">
+  <img src="./assets/timeline.png" alt="Timeline" width="600" />
+</p>
+
 <pre>
 2016 ── Started learning programming
   │
-2018 ── B.S. Graduated (SCNU)
+2018 ── B.S. Graduated <a href="https://www.scnu.edu.cn/">(SCNU)</a>
   │
-2019 ── Joined a major tech company · Began technical writing
+2019 ── Joined a major tech company <a href="https://996.icu/#/">(996.icu)</a> · Began technical writing
   │
 2020 ── Became <a href="https://juejin.cn/user/1521379823340792">Juejin</a> Outstanding Author
   │
-2021 ── Joined a state-owned enterprise · Programming + Projects
+2021 ── Joined a state-owned enterprise <a href="https://github.com/formulahendry/955.WLB">(955.WLB)</a> · Programming + Projects
   │
 2023 ── Published <a href="https://item.jd.com/14356664.html">"Developer's Growth Handbook"</a>
   │
@@ -37,14 +41,14 @@
   │
 2025 ── Founded <a href="https://blogger-alliance.cn">Blogger Alliance</a> · Co-created <a href="https://frontendweekly.cn/">Frontend Weekly</a>
   │
-2026 ── LLM+ Work · Creation · Publishing
+2026 ── Founded <a href="https://tuaran.github.io/julian-tech-website/">@Matrix Tech</a> · LLM+ Work / Creation / Publishing
 </pre>
 
 | Item | Info | Description |
 | :---: | :--- | :--- |
-| 🌐 Webhp | [https://tuaran.me](https://tuaran.me) | Programming / Creation / Life Records |
+| 🌐 Webhp | [Blog](https://tuaran.me) | Programming / Creation / Life Records |
 | 💬 Contact | WeChat `atar24` ｜ [tuaran666@gmail.com](mailto:tuaran666@gmail.com) | Communication / Collaboration |
-| 📊 Impact | [500+ tech articles, 4M+ total reads](https://csdn-fans-tracker.pages.dev/) | Growing |
+| 📊 Impact | [500+ tech articles, 4M+ total reads](https://csdn-fans-tracker.pages.dev/) | Input determines output |
 | 🔗 Social | [Juejin](https://juejin.cn/user/1521379823340792) ｜ [Xiaohongshu](https://www.xiaohongshu.com/user/profile/68b313f9000000001901d07e) ｜ [CSDN](https://blog.csdn.net/aifs2025) | Tech Blogger, Active Contributor, Community Building |
 
 ---
@@ -64,14 +68,14 @@
 
 ## 🏗 Projects & Toolbox
 
-| # | Project / Tool | Description | Type | Status |
-| :---: | :---: | :--- | :---: | :---: |
-| 1 | 🤝 [**Blogger Alliance**](https://github.com/TUARAN/blogger-alliance) · [Site](https://blogger-alliance.cn) | Developer blogger platform for creation & promotion | Open Source | 🟢 Live |
-| 2 | 📰 [**Frontend Weekly**](https://github.com/TUARAN/frontend-weekly-digest-cn) · [Site](https://frontendweekly.cn/) | Weekly curated frontend articles from global forums | Open Source | 🟢 Live |
-| 3 | 🔥 [AI Learning Hub](https://matrix-ai-pdfs.pages.dev/) | AI learning resources & sharing | Tool | 🟢 Live |
-| 4 | 🎨 [Banana Gallery](https://banana-gallery.pages.dev/) | Creative gallery tool | Tool | 🟢 Live |
-| 5 | 💡 [Prompt Engineering](https://awesome-prompt-seven.vercel.app/) | Prompt engineering reference | Tool | 🟢 Live |
-| 6 | 🛠 [Code Toolkit](https://toolkit-hub.pages.dev/) | Developer productivity tools | Tool | 🟢 Live |
+| # | Project / Tool | Description | GitHub | Site | Type | Status |
+| :---: | :--- | :--- | :---: | :---: | :---: | :---: |
+| 1 | 🤝 **Blogger Alliance** | Developer blogger platform for creation & promotion | [GitHub](https://github.com/TUARAN/blogger-alliance) | [Site](https://blogger-alliance.cn) | Open Source | 🟢 Live |
+| 2 | 📰 **Frontend Weekly** | Weekly curated frontend articles from global forums | [GitHub](https://github.com/TUARAN/frontend-weekly-digest-cn) | [Site](https://frontendweekly.cn/) | Open Source | 🟢 Live |
+| 3 | 🔥 AI Learning Hub | AI learning resources & sharing | [GitHub](https://github.com/TUARAN/AI-Learning-Library) | [Site](https://matrix-ai-pdfs.pages.dev/) | Tool | 🟢 Live |
+| 4 | 🎨 Banana Gallery | Creative gallery tool | [GitHub](https://github.com/TUARAN/Awesome-Nano-Banana-images) | [Site](https://banana-gallery.pages.dev/) | Tool | 🟢 Live |
+| 5 | 💡 Prompt Engineering | Prompt engineering reference | [GitHub](https://github.com/TUARAN/awesome-prompt) | [Site](https://awesome-prompt-seven.vercel.app/) | Tool | 🟢 Live |
+| 6 | 🛠 Code Toolkit | Developer productivity tools | [GitHub](https://github.com/TUARAN/toolkit-hub) | [Site](https://toolkit-hub.pages.dev/) | Tool | 🟢 Live |
 
 ---
 
