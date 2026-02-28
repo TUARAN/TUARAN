@@ -21,7 +21,7 @@
 ## 📅 关于我
 
 <p align="center">
-  <img src="./assets/timeline.png" alt="Timeline" width="600" />
+  <img src="./assets/wechat_2026-02-28_231054_665 2.png" alt="Timeline" width="600" />
 </p>
 
 <pre>
