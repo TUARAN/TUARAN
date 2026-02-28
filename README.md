@@ -29,7 +29,7 @@
   │
 2018 ── 本科毕业<a href="https://www.scnu.edu.cn/">（华南师大）</a>
   │
-2019 ── 入职某大厂<a href="https://996.icu/#/">（996.icu）</a> · 开始技术写作
+2019 ── 入职某大厂<a href="https://996.ICU/#/">（996.ICU）</a> · 开始技术写作
   │
 2020 ── <a href="https://juejin.cn/user/1521379823340792">掘金优秀作者</a>
   │

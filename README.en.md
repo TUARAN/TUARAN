@@ -29,7 +29,7 @@
   │
 2018 ── B.S. Graduated <a href="https://www.scnu.edu.cn/">(SCNU)</a>
   │
-2019 ── Joined a major tech company <a href="https://996.icu/#/">(996.icu)</a> · Began technical writing
+2019 ── Joined a major tech company <a href="https://996.ICU/#/">(996.ICU)</a> · Began technical writing
   │
 2020 ── Became <a href="https://juejin.cn/user/1521379823340792">Juejin</a> Outstanding Author
   │
