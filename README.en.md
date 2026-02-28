@@ -20,25 +20,25 @@
 
 ## 📅 About Me
 
-```
+<pre>
 2016 ── Started learning programming
   │
-2018 ── Graduated from university (SCNU)
+2018 ── B.S. Graduated (SCNU)
   │
 2019 ── Joined a major tech company · Began technical writing
   │
-2020 ── Became Juejin Outstanding Author
+2020 ── Became <a href="https://juejin.cn/user/1521379823340792">Juejin</a> Outstanding Author
   │
 2021 ── Joined a state-owned enterprise · Programming + Projects
   │
-2023 ── Published "Developer's Growth Handbook"
+2023 ── Published <a href="https://item.jd.com/14356664.html">"Developer's Growth Handbook"</a>
   │
-2024 ── Published "AI Bots: The Complete Guide"
+2024 ── Released <a href="https://juejin.cn/book/7351709145294176282">"AI Bots: The Complete Guide"</a>
   │
-2025 ── Founded Blogger Alliance · Co-created Frontend Weekly
+2025 ── Founded <a href="https://blogger-alliance.cn">Blogger Alliance</a> · Co-created <a href="https://frontendweekly.cn/">Frontend Weekly</a>
   │
 2026 ── LLM+ Work · Creation · Publishing
-```
+</pre>
 
 | Item | Info | Description |
 | :---: | :--- | :--- |
