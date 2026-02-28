@@ -1,0 +1,106 @@
+<h1 align="center">👋 Hi, I'm Tu Aran (TUARAN)</h1>
+
+<p align="center">
+  Community ID: <a href="https://juejin.cn/user/1521379823340792">掘金安东尼</a> ｜ <a href="https://www.xiaohongshu.com/user/profile/68b313f9000000001901d07e">安东尼404</a> ｜ <a href="https://blog.csdn.net/aifs2025">安东尼与AI</a>
+</p>
+
+<p align="center">
+  <code>Developer</code> · <code>Project Manager</code> · <code>Tech Blogger</code> · <code>Published Author</code> · <code>Founder of Matrix Tech</code>
+</p>
+
+<p align="center">
+  <a href="./README.md">🇨🇳 中文版</a>
+</p>
+
+<p align="center">
+  Focused on frontend engineering & AI Agent systems. Active tech community contributor, documenting a long-term creator's journey.
+</p>
+
+---
+
+## 📅 About Me
+
+```
+2016 ── Started learning programming
+  │
+2018 ── Graduated from university (SCNU)
+  │
+2019 ── Joined a major tech company · Began technical writing
+  │
+2020 ── Became Juejin Outstanding Author
+  │
+2021 ── Joined a state-owned enterprise · Programming + Projects
+  │
+2023 ── Published "Developer's Growth Handbook"
+  │
+2024 ── Published "AI Bots: The Complete Guide"
+  │
+2025 ── Founded Blogger Alliance · Co-created Frontend Weekly
+  │
+2026 ── LLM+ Work · Creation · Publishing
+```
+
+| Item | Info | Description |
+| :---: | :--- | :--- |
+| 🌐 Webhp | [https://tuaran.me](https://tuaran.me) | Programming / Creation / Life Records |
+| 💬 Contact | WeChat `atar24` ｜ [tuaran666@gmail.com](mailto:tuaran666@gmail.com) | Communication / Collaboration |
+| 📊 Impact | [500+ tech articles, 4M+ total reads](https://csdn-fans-tracker.pages.dev/) | Growing |
+| 🔗 Social | [Juejin](https://juejin.cn/user/1521379823340792) ｜ [Xiaohongshu](https://www.xiaohongshu.com/user/profile/68b313f9000000001901d07e) ｜ [CSDN](https://blog.csdn.net/aifs2025) | Tech Blogger, Active Contributor, Community Building |
+
+---
+
+## 📚 Books / E-Book Publications
+
+| # | Title | Category | Period | Status |
+| :---: | :--- | :---: | :---: | :---: |
+| 1 | [Developer's Growth Handbook](https://item.jd.com/14356664.html) | 📖 Book | 2022–2023 | ✅ Published |
+| 2 | [AI Bots: The Complete Guide](https://juejin.cn/book/7351709145294176282) | 📱 E-Book | 2024 | ✅ Released |
+| 3 | Master LLM in 5 Hours | 📖 Book | 2024–2025 | 📤 Publishing |
+| 4 | AI Agent Special | 📖 Co-authored | 2025–2026 | 📝 Writing |
+| 5 | ByteDance Video Course | 📖 Co-authored | 2026 H1 | 📝 Writing |
+| 6 | Embodied Intelligence | 📖 Book | Est. 2025 | 📝 Planned |
+
+---
+
+## 🏗 Projects & Toolbox
+
+| # | Project / Tool | Description | Type | Status |
+| :---: | :---: | :--- | :---: | :---: |
+| 1 | 🤝 [**Blogger Alliance**](https://github.com/TUARAN/blogger-alliance) · [Site](https://blogger-alliance.cn) | Developer blogger platform for creation & promotion | Open Source | 🟢 Live |
+| 2 | 📰 [**Frontend Weekly**](https://github.com/TUARAN/frontend-weekly-digest-cn) · [Site](https://frontendweekly.cn/) | Weekly curated frontend articles from global forums | Open Source | 🟢 Live |
+| 3 | 🔥 [AI Learning Hub](https://matrix-ai-pdfs.pages.dev/) | AI learning resources & sharing | Tool | 🟢 Live |
+| 4 | 🎨 [Banana Gallery](https://banana-gallery.pages.dev/) | Creative gallery tool | Tool | 🟢 Live |
+| 5 | 💡 [Prompt Engineering](https://awesome-prompt-seven.vercel.app/) | Prompt engineering reference | Tool | 🟢 Live |
+| 6 | 🛠 [Code Toolkit](https://toolkit-hub.pages.dev/) | Developer productivity tools | Tool | 🟢 Live |
+
+---
+
+## ⚙️ Tech Stack & Areas of Interest
+
+| Capability Layer | Domain | Core Technologies | Extended Skills | Engineering Role |
+| :--- | :--- | :--- | :--- | :--- |
+| **Language Foundation** | Programming | JavaScript · TypeScript · Python · Rust | Multi-language collaboration | Full-stack engineering base |
+| **Frontend Engineering** | Web App Development | Vue 3 · Vite · TailwindCSS · ECharts | Data visualization · Interactive systems | AI application UI layer |
+| **AI Capability** | LLM Applications | LLM · Agent · MCP · OpenClaw | Local Inference · Multi-model orchestration | Agent core engine |
+| **System Engineering** | Backend & Runtime | Node.js · Flask · SQLite · Docker · Tauri | Local apps · Desktop deployment | AI Native Infra |
+| **Architecture Focus** | Tech Direction | LLM Application Engineering | Agent Orchestration | MCP Workflow · Automated Dev · AI Native Software |
+
+---
+
+## 🧭 Engineering Philosophy
+
+> *Systems first · Automation first · Long-term reusability · Minimize manual dependency*
+>
+> I build software that continues running beyond human interaction loops.
+
+---
+
+<p align="center">
+  <i>✨ Seeking kindred spirits — let's walk this road together.</i>
+</p>
+
+<p align="center">
+  <a href="https://tuaran.me">🌐 tuaran.me</a> ·
+  <a href="mailto:tuaran666@gmail.com">📧 Email</a> ·
+  <a href="https://tuaran.me/weekly">📅 Weekly Reflections</a>
+</p>
