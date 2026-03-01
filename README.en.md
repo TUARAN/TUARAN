@@ -68,14 +68,26 @@
 
 ## 🏗 Projects & Toolbox
 
-| # | Project / Tool | Description | GitHub | Site | Type | Status |
+| # | Project / Tool | Description | Repository URL | Web Address | Type | Status |
 | :---: | :--- | :--- | :---: | :---: | :---: | :---: |
-| 1 | 🤝 **Blogger Alliance** | Developer blogger platform for creation & promotion | [GitHub](https://github.com/TUARAN/blogger-alliance) | [Site](https://blogger-alliance.cn) | Open Source | 🟢 Live |
-| 2 | 📰 **Frontend Weekly** | Weekly curated frontend articles from global forums | [GitHub](https://github.com/TUARAN/frontend-weekly-digest-cn) | [Site](https://frontendweekly.cn/) | Open Source | 🟢 Live |
-| 3 | 🔥 AI Learning Hub | AI learning resources & sharing | [GitHub](https://github.com/TUARAN/AI-Learning-Library) | [Site](https://matrix-ai-pdfs.pages.dev/) | Tool | 🟢 Live |
-| 4 | 🎨 Banana Gallery | Creative gallery tool | [GitHub](https://github.com/TUARAN/Awesome-Nano-Banana-images) | [Site](https://banana-gallery.pages.dev/) | Tool | 🟢 Live |
-| 5 | 💡 Prompt Engineering | Prompt engineering reference | [GitHub](https://github.com/TUARAN/awesome-prompt) | [Site](https://awesome-prompt-seven.vercel.app/) | Tool | 🟢 Live |
-| 6 | 🛠 Code Toolkit | Developer productivity tools | [GitHub](https://github.com/TUARAN/toolkit-hub) | [Site](https://toolkit-hub.pages.dev/) | Tool | 🟢 Live |
+| 1 | 🤝 **Blogger Alliance** | Developer blogger platform for creation & promotion | [GitHub](https://github.com/TUARAN/blogger-alliance) | [Portal](https://blogger-alliance.cn) | Open Source | 🟢 Live |
+| 2 | 📰 **Frontend Weekly** | Weekly curated frontend articles from global forums | [GitHub](https://github.com/TUARAN/frontend-weekly-digest-cn) | [Portal](https://frontendweekly.cn/) | Open Source | 🟢 Live |
+| 3 | 🔥 AI Learning Hub | AI learning resources & sharing | [GitHub](https://github.com/TUARAN/AI-Learning-Library) | [Portal](https://matrix-ai-pdfs.pages.dev/) | Tool | 🟢 Live |
+| 4 | 🎨 Banana Gallery | Creative gallery tool | [GitHub](https://github.com/TUARAN/Awesome-Nano-Banana-images) | [Portal](https://banana-gallery.pages.dev/) | Tool | 🟢 Live |
+| 5 | 💡 Prompt Engineering | Prompt engineering reference | [GitHub](https://github.com/TUARAN/awesome-prompt) | [Portal](https://awesome-prompt-seven.vercel.app/) | Tool | 🟢 Live |
+| 6 | 🛠 Code Toolkit | Developer productivity tools | [GitHub](https://github.com/TUARAN/toolkit-hub) | [Portal](https://toolkit-hub.pages.dev/) | Tool | 🟢 Live |
+
+---
+
+## 🧭 My Domain Matrix
+
+| Name | Domain | Type | Core Positioning |
+| :--- | :--- | :--- | :--- |
+| 🧑‍💻 **TUARAN** | [https://tuaran.me](https://tuaran.me) | Personal Brand | Personal tech homepage · AI × Engineering × Thinking |
+| 🚀 **MatrixLink** | [https://matrixlink.tech](https://matrixlink.tech) | Company Website | Guangzhou MatrixLink homepage · Matrix united, co-create and win-win |
+| 🤝 **Blogger Alliance** | [https://blogger-alliance.cn](https://blogger-alliance.cn) | Promotion Service | Tech blogger alliance and technology product promotion |
+| 🧭 **Frontend Weekly** | [https://frontendweekly.cn](https://frontendweekly.cn) | Tech Media | Frontend weekly with translated global tech highlights |
+| 🤖 **I Am Vibe Coder** | [https://iamvibecoder.cn](https://iamvibecoder.cn) | Community Platform | AI coding exchange and developer co-creation community |
 
 ---
 
