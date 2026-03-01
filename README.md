@@ -46,9 +46,9 @@
 
 |    项目    | 信息                                                                                                                                                            | 说明                           |
 | :---------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------- |
-|   🌐 主页   | [网络日志](https://tuaran.me)                                                                                                                             | 编程 / 创作 / 生活记录         |
+|   🌐 主页   | [网络日志](https://tuaran.me)                                                                                                                                      | 编程 / 创作 / 生活记录         |
 | 💬 联系方式 | 微信 `atar24` ｜ [tuaran666@gmail.com](mailto:tuaran666@gmail.com)                                                                                               | 交流 / 合作                    |
-| ​📊 影响力​ | [全网 500 篇+ 文章，阅读量超 400 万+](https://csdn-fans-tracker.pages.dev/)                                                                                        | 输入决定输出                     |
+|  📊 影响力  | [全网 500 篇+ 文章，阅读量超 400 万+](https://csdn-fans-tracker.pages.dev/)                                                                                        | 输入决定输出                   |
 | 🔗 社交平台 | [掘金](https://juejin.cn/user/1521379823340792) ｜ [小红书](https://www.xiaohongshu.com/user/profile/68b313f9000000001901d07e) ｜ [CSDN](https://blog.csdn.net/aifs2025) | 技术博主 / 社区活跃 / 社区共建 |
 
 ---
@@ -68,14 +68,26 @@
 
 ## 🏗 发起项目 & 工具箱
 
-| # | 项目 / 工具 | 简介 | GitHub | 站点 | 类型 | 状态 |
-| :-: | :--- | :--- | :---: | :---: | :---: | :---: |
-| 1 | 🤝 **博主联盟** | 开发者博主联盟平台，链接创作与推广 | [GitHub](https://github.com/TUARAN/blogger-alliance) | [站点](https://blogger-alliance.cn) | 开源项目 | 🟢 运营中 |
-| 2 | 📰 **前端周刊** | 每周更新国外论坛的前端热门文章 | [GitHub](https://github.com/TUARAN/frontend-weekly-digest-cn) | [站点](https://frontendweekly.cn/) | 开源项目 | 🟢 运营中 |
-| 3 | 🔥 安东尼学AI | AI 学习资料整理与分享 | [GitHub](https://github.com/TUARAN/AI-Learning-Library) | [站点](https://matrix-ai-pdfs.pages.dev/) | 工具站 | 🟢 已上线 |
-| 4 | 🎨 Banana Gallery | 创意图库工具 | [GitHub](https://github.com/TUARAN/Awesome-Nano-Banana-images) | [站点](https://banana-gallery.pages.dev/) | 工具站 | 🟢 已上线 |
-| 5 | 💡 提示词工程 | Prompt Engineering 实践参考 | [GitHub](https://github.com/TUARAN/awesome-prompt) | [站点](https://awesome-prompt-seven.vercel.app/) | 工具站 | 🟢 已上线 |
-| 6 | 🛠 代码矿工 | 开发者效率工具集 | [GitHub](https://github.com/TUARAN/toolkit-hub) | [站点](https://toolkit-hub.pages.dev/) | 工具站 | 🟢 已上线 |
+| # | 项目 / 工具          | 简介                               |                          仓库地址                          |                   网页地址                   |   类型   |   状态   |
+| :-: | :------------------- | :--------------------------------- | :---------------------------------------------------------: | :-------------------------------------------: | :------: | :-------: |
+| 1 | 🤝**博主联盟** | 开发者博主联盟平台，链接创作与推广 |      [GitHub](https://github.com/TUARAN/blogger-alliance)      |     [传送门](https://blogger-alliance.cn)      | 开源项目 | 🟢 运营中 |
+| 2 | 📰**前端周刊** | 每周更新国外论坛的前端热门文章     | [GitHub](https://github.com/TUARAN/frontend-weekly-digest-cn) |      [传送门](https://frontendweekly.cn/)      | 开源项目 | 🟢 运营中 |
+| 3 | 🔥 安东尼学AI        | AI 学习资料整理与分享              |    [GitHub](https://github.com/TUARAN/AI-Learning-Library)    |  [传送门](https://matrix-ai-pdfs.pages.dev/)   |  工具站  | 🟢 已上线 |
+| 4 | 🎨 Banana Gallery    | 创意图库工具                       | [GitHub](https://github.com/TUARAN/Awesome-Nano-Banana-images) |  [传送门](https://banana-gallery.pages.dev/)   |  工具站  | 🟢 已上线 |
+| 5 | 💡 提示词工程        | Prompt Engineering 实践参考        |       [GitHub](https://github.com/TUARAN/awesome-prompt)       | [传送门](https://awesome-prompt-seven.vercel.app/) |  工具站  | 🟢 已上线 |
+| 6 | 🛠 代码矿工          | 开发者效率工具集                   |        [GitHub](https://github.com/TUARAN/toolkit-hub)        |    [传送门](https://toolkit-hub.pages.dev/)    |  工具站  | 🟢 已上线 |
+
+---
+
+## 🧭 我的站点矩阵
+
+| 名称                         | 域名                                                    | 类型     | 核心定位                               |
+| ---------------------------- | ------------------------------------------------------- | -------- | -------------------------------------- |
+| 🧑‍💻**TUARAN**       | [https://tuaran.me](https://tuaran.me)                     | 个人品牌 | 个人技术主页 · AI × 工程 × 思考     |
+| 🚀**MatrixLink**       | [https://matrixlink.tech](https://matrixlink.tech)         | 公司官网 | 广州矩联科技主页 · 矩阵联合，共创共赢 |
+| 🤝**Blogger Alliance** | [https://blogger-alliance.cn](https://blogger-alliance.cn) | 推广服务 | 技术博主联盟与技术产品推广             |
+| 🧭**Frontend Weekly**  | [https://frontendweekly.cn](https://frontendweekly.cn)     | 技术媒体 | 前端技术周刊全球技术资讯翻译           |
+| 🤖**I Am Vibe Coder**  | [https://iamvibecoder.cn](https://iamvibecoder.cn)         | 社区平台 | AI 编程交流与开发者共创社区            |
 
 ---
 
