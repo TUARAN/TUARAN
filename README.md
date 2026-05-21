@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <code>程序员</code> · <code>项目经理</code> · <code>技术博主</code> · <code>出版作者</code> · <code>矩联科技创始人</code>
+  <code>程序员</code> · <code>项目经理</code> · <code>技术博主</code> · <code>出版作者</code> · <code>矩联科技创始人</code> · <code>茉莉奶爸</code>
 </p>
 
 <p align="center">
@@ -39,9 +39,9 @@
   │
 2024 ── 发布<a href="https://juejin.cn/book/7351709145294176282">《AI Bots 通关指南》</a> 电子册
   │
-2025 ── 发起<a href="https://blogger-alliance.cn">「博主联盟」</a> · 共创<a href="https://frontendweekly.cn/">「前端周刊」</a>
+2025 ── 发起<a href="https://blogger-alliance.cn">「博主联盟」</a> · 共创<a href="https://frontendnext.com/">「前端下一步」</a>（原前端周刊）
   │
-2026 ── 创立 <a href="https://tuaran.github.io/julian-tech-website/">@矩联科技</a> · LLM+ 工作 / 创作 / 出版
+2026 ── 创立 <a href="https://tuaran.me">@矩联科技</a> · LLM+ 工作 / 创作 / 出版
 </pre>
 
 |    项目    | 信息                                                                                                                                                            | 说明                           |
@@ -49,7 +49,7 @@
 |   🌐 主页   | [网络日志](https://tuaran.me)                                                                                                                                      | 编程 / 创作 / 生活记录         |
 | 💬 联系方式 | 微信 `atar24` ｜ [tuaran666@gmail.com](mailto:tuaran666@gmail.com)                                                                                               | 交流 / 合作                    |
 |  📊 影响力  | [全网 500 篇+ 文章，阅读量超 400 万+](https://csdn-fans-tracker.pages.dev/)                                                                                        | 输入决定输出                   |
-| 🔗 社交平台 | [掘金](https://juejin.cn/user/1521379823340792) ｜ [小红书](https://www.xiaohongshu.com/user/profile/68b313f9000000001901d07e) ｜ [CSDN](https://blog.csdn.net/aifs2025) | 技术博主 / 社区活跃 / 社区共建 |
+| 🔗 社交平台 | [掘金](https://juejin.cn/user/1521379823340792) ｜ [小红书](https://www.xiaohongshu.com/user/profile/68b313f9000000001901d07e) ｜ [CSDN](https://blog.csdn.net/aifs2025) ｜ [51CTO](https://blog.51cto.com/u_15298598) | 技术博主 / 社区活跃 / 社区共建 |
 
 ---
 
@@ -59,9 +59,9 @@
 | :-: | :-------------------------------------------------------------- | :---------: | :---------: | :--------: |
 | 1 | [《程序员成长手记》](https://item.jd.com/14356664.html)            | 📖 技术图书 | 2022–2023 | ✅ 已出版 |
 | 2 | [《AI Bots 通关指南》](https://juejin.cn/book/7351709145294176282) | 📱 电子小册 |    2024    | ✅ 已发布 |
-| 3 | 《5 小时吃透大模型》                                            | 📖 技术图书 | 2024–2025 | 📤 出版中 |
-| 4 | 智能体专题                                                      | 📖 联合创作 |  2025-2026  | 📝 撰写中 |
-| 5 | 字节视频创作                                                    | 📖 联合创作 | 2026 上半年 | 📝 撰写中 |
+| 3 | 《5 小时吃透大模型》                                            | 📖 技术图书 | 2024–2025 | 📤 已交稿 · 出版中 |
+| 4 | 《智能体实战（扣子 · n8n · Dify）》                              | 📖 联合创作 |  2025-2026  | 📝 撰写中 |
+| 5 | 《Seedance 2.0 电影级 AI 视频创作指南》                          | 📖 联合创作 | 2026 上半年 | 📤 已交稿 · 出版中 |
 | 6 | 具身智能                                                        | 📖 技术图书 |  2025 立项  | 📝 立项中 |
 
 ---
@@ -71,11 +71,13 @@
 | # | 项目 / 工具          | 简介                               |                          仓库地址                          |                   网页地址                   |   类型   |   状态   |
 | :-: | :------------------- | :--------------------------------- | :---------------------------------------------------------: | :-------------------------------------------: | :------: | :-------: |
 | 1 | 🤝**博主联盟** | 开发者博主联盟平台，链接创作与推广 |      [GitHub](https://github.com/TUARAN/blogger-alliance)      |     [传送门](https://blogger-alliance.cn)      | 开源项目 | 🟢 运营中 |
-| 2 | 📰**前端周刊** | 每周更新国外论坛的前端热门文章     | [GitHub](https://github.com/TUARAN/frontend-weekly-digest-cn) |      [传送门](https://frontendweekly.cn/)      | 开源项目 | 🟢 运营中 |
+| 2 | 🧭**前端下一步** | 帮前端工程师在 AI 时代做技术转向判断（原前端周刊） | [GitHub](https://github.com/TUARAN/frontend-weekly-digest-cn) |      [传送门](https://frontendnext.com/)      | 开源项目 | 🟢 运营中 |
 | 3 | 🔥 安东尼学AI        | AI 学习资料整理与分享              |    [GitHub](https://github.com/TUARAN/AI-Learning-Library)    |  [传送门](https://matrix-ai-pdfs.pages.dev/)   |  工具站  | 🟢 已上线 |
 | 4 | 🎨 Banana Gallery    | 创意图库工具                       | [GitHub](https://github.com/TUARAN/Awesome-Nano-Banana-images) |  [传送门](https://banana-gallery.pages.dev/)   |  工具站  | 🟢 已上线 |
 | 5 | 💡 提示词工程        | Prompt Engineering 实践参考        |       [GitHub](https://github.com/TUARAN/awesome-prompt)       | [传送门](https://awesome-prompt-seven.vercel.app/) |  工具站  | 🟢 已上线 |
 | 6 | 🛠 代码矿工          | 开发者效率工具集                   |        [GitHub](https://github.com/TUARAN/toolkit-hub)        |    [传送门](https://toolkit-hub.pages.dev/)    |  工具站  | 🟢 已上线 |
+| 7 | 🧠 Claude Code Unpacked | 交互式拆解 Claude Code 的 Agent 循环与工具系统 | [GitHub](https://github.com/TUARAN/ccunpacked-zh) | [传送门](https://ccunpacked-zh.pages.dev/) | 工具站 | 🟢 已上线 |
+| 8 | 🧪 WebLLM | 基于 WebGPU 的浏览器侧大模型实验 | [GitHub](https://github.com/TUARAN/webllm) | [传送门](https://tuaran.me/web-llm) | 实验项目 | 🟢 已上线 |
 
 ---
 
@@ -86,8 +88,11 @@
 | 🧑‍💻**TUARAN**       | [https://tuaran.me](https://tuaran.me)                     | 个人品牌 | 个人技术主页 · AI × 工程 × 思考     |
 | 🚀**MatrixLink**       | [https://matrixlink.tech](https://matrixlink.tech)         | 公司官网 | 广州矩联科技主页 · 矩阵联合，共创共赢 |
 | 🤝**Blogger Alliance** | [https://blogger-alliance.cn](https://blogger-alliance.cn) | 推广服务 | 技术博主联盟与技术产品推广             |
-| 🧭**Frontend Weekly**  | [https://frontendweekly.cn](https://frontendweekly.cn)     | 技术媒体 | 前端技术周刊全球技术资讯翻译           |
+| 🧭**前端下一步 Frontend Next** | [https://frontendnext.com](https://frontendnext.com) | 转型决策 | 帮前端工程师在 AI 时代做技术转向判断（原前端周刊） |
 | 🤖**I Am Vibe Coder**  | [https://iamvibecoder.cn](https://iamvibecoder.cn)         | 社区平台 | AI 编程交流与开发者共创社区            |
+| 🧠**Open Claude Code** | [https://openclaudecode.site](https://openclaudecode.site) | 学习站   | 系统拆解 Claude Code 的 Agent 循环与多智能体协作 |
+| ✍️**PublishLab**      | [https://publishlab.cc](https://publishlab.cc)             | 创作实验室 | AI 写作、内容创作与数字出版           |
+| ⚡**Frontend 2 AI Agent** | [https://frontend2aiagent.com](https://frontend2aiagent.com) | 转型平台 | 前端工程师转向 AI Agent 工程师的成长路径 |
 
 ---
 

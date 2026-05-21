@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <code>Developer</code> · <code>Project Manager</code> · <code>Tech Blogger</code> · <code>Published Author</code> · <code>Founder of Matrix Tech</code>
+  <code>Developer</code> · <code>Project Manager</code> · <code>Tech Blogger</code> · <code>Published Author</code> · <code>Founder of Matrix Tech</code> · <code>Molly's Dad</code>
 </p>
 
 <p align="center">
@@ -39,9 +39,9 @@
   │
 2024 ── Released <a href="https://juejin.cn/book/7351709145294176282">"AI Bots: The Complete Guide"</a>
   │
-2025 ── Founded <a href="https://blogger-alliance.cn">Blogger Alliance</a> · Co-created <a href="https://frontendweekly.cn/">Frontend Weekly</a>
+2025 ── Founded <a href="https://blogger-alliance.cn">Blogger Alliance</a> · Co-created <a href="https://frontendnext.com/">Frontend Next</a> (formerly Frontend Weekly)
   │
-2026 ── Founded <a href="https://tuaran.github.io/julian-tech-website/">@Matrix Tech</a> · LLM+ Work / Creation / Publishing
+2026 ── Founded <a href="https://tuaran.me">@Matrix Tech</a> · LLM+ Work / Creation / Publishing
 </pre>
 
 | Item | Info | Description |
@@ -49,7 +49,7 @@
 | 🌐 Webhp | [Blog](https://tuaran.me) | Programming / Creation / Life Records |
 | 💬 Contact | WeChat `atar24` ｜ [tuaran666@gmail.com](mailto:tuaran666@gmail.com) | Communication / Collaboration |
 | 📊 Impact | [500+ tech articles, 4M+ total reads](https://csdn-fans-tracker.pages.dev/) | Input determines output |
-| 🔗 Social | [Juejin](https://juejin.cn/user/1521379823340792) ｜ [Xiaohongshu](https://www.xiaohongshu.com/user/profile/68b313f9000000001901d07e) ｜ [CSDN](https://blog.csdn.net/aifs2025) | Tech Blogger, Active Contributor, Community Building |
+| 🔗 Social | [Juejin](https://juejin.cn/user/1521379823340792) ｜ [Xiaohongshu](https://www.xiaohongshu.com/user/profile/68b313f9000000001901d07e) ｜ [CSDN](https://blog.csdn.net/aifs2025) ｜ [51CTO](https://blog.51cto.com/u_15298598) | Tech Blogger, Active Contributor, Community Building |
 
 ---
 
@@ -59,9 +59,9 @@
 | :---: | :--- | :---: | :---: | :---: |
 | 1 | [Developer's Growth Handbook](https://item.jd.com/14356664.html) | 📖 Book | 2022–2023 | ✅ Published |
 | 2 | [AI Bots: The Complete Guide](https://juejin.cn/book/7351709145294176282) | 📱 E-Book | 2024 | ✅ Released |
-| 3 | Master LLM in 5 Hours | 📖 Book | 2024–2025 | 📤 Publishing |
-| 4 | AI Agent Special | 📖 Co-authored | 2025–2026 | 📝 Writing |
-| 5 | ByteDance Video Course | 📖 Co-authored | 2026 H1 | 📝 Writing |
+| 3 | Master LLM in 5 Hours | 📖 Book | 2024–2025 | 📤 Submitted · Publishing |
+| 4 | AI Agents in Practice (Coze · n8n · Dify) | 📖 Co-authored | 2025–2026 | 📝 Writing |
+| 5 | Seedance 2.0: Cinematic AI Video Creation Guide | 📖 Co-authored | 2026 H1 | 📤 Submitted · Publishing |
 | 6 | Embodied Intelligence | 📖 Book | Est. 2025 | 📝 Planned |
 
 ---
@@ -71,11 +71,13 @@
 | # | Project / Tool | Description | Repository URL | Web Address | Type | Status |
 | :---: | :--- | :--- | :---: | :---: | :---: | :---: |
 | 1 | 🤝 **Blogger Alliance** | Developer blogger platform for creation & promotion | [GitHub](https://github.com/TUARAN/blogger-alliance) | [Portal](https://blogger-alliance.cn) | Open Source | 🟢 Live |
-| 2 | 📰 **Frontend Weekly** | Weekly curated frontend articles from global forums | [GitHub](https://github.com/TUARAN/frontend-weekly-digest-cn) | [Portal](https://frontendweekly.cn/) | Open Source | 🟢 Live |
+| 2 | 🧭 **Frontend Next** | Helping frontend devs navigate the AI-era career shift (formerly Frontend Weekly) | [GitHub](https://github.com/TUARAN/frontend-weekly-digest-cn) | [Portal](https://frontendnext.com/) | Open Source | 🟢 Live |
 | 3 | 🔥 AI Learning Hub | AI learning resources & sharing | [GitHub](https://github.com/TUARAN/AI-Learning-Library) | [Portal](https://matrix-ai-pdfs.pages.dev/) | Tool | 🟢 Live |
 | 4 | 🎨 Banana Gallery | Creative gallery tool | [GitHub](https://github.com/TUARAN/Awesome-Nano-Banana-images) | [Portal](https://banana-gallery.pages.dev/) | Tool | 🟢 Live |
 | 5 | 💡 Prompt Engineering | Prompt engineering reference | [GitHub](https://github.com/TUARAN/awesome-prompt) | [Portal](https://awesome-prompt-seven.vercel.app/) | Tool | 🟢 Live |
 | 6 | 🛠 Code Toolkit | Developer productivity tools | [GitHub](https://github.com/TUARAN/toolkit-hub) | [Portal](https://toolkit-hub.pages.dev/) | Tool | 🟢 Live |
+| 7 | 🧠 Claude Code Unpacked | Interactive breakdown of Claude Code's agent loop & tool system | [GitHub](https://github.com/TUARAN/ccunpacked-zh) | [Portal](https://ccunpacked-zh.pages.dev/) | Tool | 🟢 Live |
+| 8 | 🧪 WebLLM | In-browser LLM experiment powered by WebGPU | [GitHub](https://github.com/TUARAN/webllm) | [Portal](https://tuaran.me/web-llm) | Experiment | 🟢 Live |
 
 ---
 
@@ -86,8 +88,11 @@
 | 🧑‍💻 **TUARAN** | [https://tuaran.me](https://tuaran.me) | Personal Brand | Personal tech homepage · AI × Engineering × Thinking |
 | 🚀 **MatrixLink** | [https://matrixlink.tech](https://matrixlink.tech) | Company Website | Guangzhou MatrixLink homepage · Matrix united, co-create and win-win |
 | 🤝 **Blogger Alliance** | [https://blogger-alliance.cn](https://blogger-alliance.cn) | Promotion Service | Tech blogger alliance and technology product promotion |
-| 🧭 **Frontend Weekly** | [https://frontendweekly.cn](https://frontendweekly.cn) | Tech Media | Frontend weekly with translated global tech highlights |
+| 🧭 **Frontend Next** | [https://frontendnext.com](https://frontendnext.com) | Career Pivot | Helping frontend devs make tech-direction decisions in the AI era (formerly Frontend Weekly) |
 | 🤖 **I Am Vibe Coder** | [https://iamvibecoder.cn](https://iamvibecoder.cn) | Community Platform | AI coding exchange and developer co-creation community |
+| 🧠 **Open Claude Code** | [https://openclaudecode.site](https://openclaudecode.site) | Learning Hub | Systematic breakdown of Claude Code's agent loop & multi-agent collaboration |
+| ✍️ **PublishLab** | [https://publishlab.cc](https://publishlab.cc) | Creation Lab | AI writing, content creation and digital publishing |
+| ⚡ **Frontend 2 AI Agent** | [https://frontend2aiagent.com](https://frontend2aiagent.com) | Career Pivot Platform | Growth path from frontend engineer to AI Agent engineer |
 
 ---
 
