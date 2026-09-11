@@ -42,7 +42,7 @@
 ## 📅 关于我
 
 <p align="center">
-  <img src="./assets/wechat_2026-02-28_231054_665 2.png" alt="Timeline" width="600" />
+  <img src="./assets/journey-timeline.png" alt="从过去走向现在 · 2016—2026" width="900" />
 </p>
 
 <pre>
