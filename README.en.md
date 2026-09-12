@@ -19,14 +19,14 @@
   I research and ship AI agents, and wrote <em>Developer's Growth Handbook</em> and <em>AI Bots: The Complete Guide</em>.
 </p>
 
-<table>
+<table width="100%">
   <tr>
-    <td align="center"><strong>1,500+</strong><br /><sub>public posts</sub></td>
-    <td align="center"><strong>6M+</strong><br /><sub>reads</sub></td>
-    <td align="center"><strong>2</strong><br /><sub>published works</sub></td>
-    <td align="center"><strong>6</strong><br /><sub>sites</sub></td>
-    <td align="center"><strong>6</strong><br /><sub>OpenClaw PRs</sub></td>
-    <td align="center"><strong>2016</strong><br /><sub>started</sub></td>
+    <td align="center" width="16%"><strong>1,500+</strong><br /><sub>public posts</sub></td>
+    <td align="center" width="16%"><strong>6M+</strong><br /><sub>reads</sub></td>
+    <td align="center" width="16%"><strong>2</strong><br /><sub>published works</sub></td>
+    <td align="center" width="16%"><strong>6</strong><br /><sub>sites</sub></td>
+    <td align="center" width="16%"><strong>6</strong><br /><sub>OpenClaw PRs</sub></td>
+    <td align="center" width="16%"><strong>2016</strong><br /><sub>started</sub></td>
   </tr>
 </table>
 

@@ -19,14 +19,14 @@
   研究与交付 AI Agent，著有《程序员成长手记》《AI Bots 通关指南》。
 </p>
 
-<table>
+<table width="100%">
   <tr>
-    <td align="center"><strong>1500+</strong><br /><sub>公开内容</sub></td>
-    <td align="center"><strong>600w+</strong><br /><sub>全网阅读</sub></td>
-    <td align="center"><strong>2</strong><br /><sub>出版作品</sub></td>
-    <td align="center"><strong>6</strong><br /><sub>在维护站点</sub></td>
-    <td align="center"><strong>6</strong><br /><sub>OpenClaw PR</sub></td>
-    <td align="center"><strong>2016</strong><br /><sub>起步至今</sub></td>
+    <td align="center" width="16%"><strong>1500+</strong><br /><sub>公开内容</sub></td>
+    <td align="center" width="16%"><strong>600w+</strong><br /><sub>全网阅读</sub></td>
+    <td align="center" width="16%"><strong>2</strong><br /><sub>出版作品</sub></td>
+    <td align="center" width="16%"><strong>6</strong><br /><sub>在维护站点</sub></td>
+    <td align="center" width="16%"><strong>6</strong><br /><sub>OpenClaw PR</sub></td>
+    <td align="center" width="16%"><strong>2016</strong><br /><sub>起步至今</sub></td>
   </tr>
 </table>
 
