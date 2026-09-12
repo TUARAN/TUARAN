@@ -42,7 +42,7 @@ I write code, research AI agents, maintain communities, and ship products. FDE, 
 ## 📅 About Me
 
 <p align="center">
-  <img src="./assets/journey-timeline.png" alt="The journey from 2016 to 2026" width="900" />
+  <img src="./assets/journey-timeline.jpg" alt="The journey from 2016 to 2026" width="900" />
 </p>
 
 <pre>
