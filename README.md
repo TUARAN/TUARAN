@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/journey-timeline.jpg" alt="从过去走向现在 · 2016—2026" width="900" />
-</p>
-
 <h1 align="center">👋 你好，我是涂阿燃（TUARAN）</h1>
 
 <p align="center">
@@ -28,6 +24,7 @@
 
 ## 目录
 
+- [时间线](#时间线)
 - [关于我](#关于我)
 - [出版作品](#出版作品)
 - [开源贡献](#开源贡献)
@@ -36,6 +33,11 @@
 - [联系](#联系)
 
 ---
+
+<p align="center">
+  <a id="时间线"></a>
+  <img src="./assets/journey-timeline.jpg" alt="从过去走向现在 · 2016—2026" />
+</p>
 
 ## 关于我
 

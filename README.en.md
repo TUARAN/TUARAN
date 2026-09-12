@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/journey-timeline.jpg" alt="The journey from 2016 to 2026" width="900" />
-</p>
-
 <h1 align="center">👋 Hi, I'm Tu Aran (TUARAN)</h1>
 
 <p align="center">
@@ -28,6 +24,7 @@
 
 ## Contents
 
+- [Timeline](#timeline)
 - [About](#about)
 - [Publications](#publications)
 - [Open Source](#open-source)
@@ -36,6 +33,11 @@
 - [Contact](#contact)
 
 ---
+
+<p align="center">
+  <a id="timeline"></a>
+  <img src="./assets/journey-timeline.jpg" alt="The journey from 2016 to 2026" />
+</p>
 
 ## About
 
