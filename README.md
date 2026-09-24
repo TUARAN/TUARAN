@@ -1,145 +1,107 @@
-<h1 align="center">涂阿燃 · TUARAN</h1>
+# TUARAN
 
-<p align="center">
-  <a href="https://juejin.cn/user/1521379823340792">掘金安东尼</a> ·
-  <a href="https://www.xiaohongshu.com/user/profile/68b313f9000000001901d07e">安东尼404</a> ·
-  <a href="https://blog.csdn.net/aifs2025">安东尼与AI</a>
-  &nbsp;·&nbsp;
-  <a href="./README.en.md">English</a>
-</p>
+AI deployment engineer, open-source contributor, technical writer, and founder of [MatrixLink](https://matrixlink.tech).
 
-<p align="center">
-  <a href="https://2aran.com/about"><img src="https://img.shields.io/badge/FDE-AI%20前沿部署工程师-0f766e?style=for-the-badge" alt="FDE" /></a>
-  <a href="https://2aran.com/about"><img src="https://img.shields.io/badge/KOL-社区创作-4338ca?style=for-the-badge" alt="KOL" /></a>
-  <a href="https://matrixlink.tech"><img src="https://img.shields.io/badge/MatrixLink-矩联科技-b45309?style=for-the-badge" alt="MatrixLink" /></a>
-</p>
+I build and ship AI agents, developer tools, content systems, and community products. My work focuses on turning emerging AI capabilities into reliable products through prototyping, deployment, authentication, testing, and long-term maintenance.
 
-<p align="center">
-  AI 前沿部署工程师、社区 KOL、矩联科技创始人。<br />
-  研究与交付 AI Agent，著有《程序员成长手记》《AI Bots 通关指南》。
-</p>
+[Website](https://2aran.com) · [About](https://2aran.com/about) · [Publications](https://2aran.com/publications) · [Email](mailto:tuaran666@gmail.com)
 
-<table align="center">
-  <tr>
-    <td align="center" nowrap>&nbsp;公开内容&nbsp;</td>
-    <td align="center" nowrap>&nbsp;全网阅读&nbsp;</td>
-    <td align="center" nowrap>&nbsp;出版作品&nbsp;</td>
-    <td align="center" nowrap>&nbsp;在维护站点&nbsp;</td>
-    <td align="center" nowrap>&nbsp;OpenClaw PR&nbsp;</td>
-    <td align="center" nowrap>&nbsp;起步至今&nbsp;</td>
-  </tr>
-  <tr>
-    <td align="center"><strong>1500+</strong></td>
-    <td align="center"><strong>600w+</strong></td>
-    <td align="center"><strong>2</strong></td>
-    <td align="center"><strong>6</strong></td>
-    <td align="center"><strong>6</strong></td>
-    <td align="center"><strong>2016</strong></td>
-  </tr>
-</table>
+## At a Glance
 
-## 目录
-
-- [时间线](#时间线)
-- [关于我](#关于我)
-- [出版作品](#出版作品)
-- [开源贡献](#开源贡献)
-- [站点与项目](#站点与项目)
-- [技术栈](#技术栈)
-- [联系](#联系)
-
----
-
-## 时间线
-
-<p align="center">
-  <img src="./assets/journey-timeline.png" alt="从过去走向现在：2016 开始编程，到 2026 矩联科技 · AI 共创" />
-</p>
-
-## 关于我
-
-写代码、研究 AI Agent、维护社区，也做产品和商业项目。[完整介绍 →](https://2aran.com/about)
-
-| | 在做什么 |
+| | |
 | :--- | :--- |
-| **FDE** | 研究 AI Agent、模型工具协议与上下文工程，接到真实产品里：原型、部署、鉴权、测试、维护。 |
-| **KOL** | 长期写技术文章、做社区分享，也参与开源。把亲手做过的事情讲清楚。 |
-| **矩联科技** | 围绕 AI 开发者生态、创作者协作与技术服务，把经验落到可交付的站点、产品与服务。 |
+| **1,500+** | Technical articles and public posts |
+| **6M+** | Reads across publishing platforms |
+| **2** | Published works |
+| **6** | Pull requests merged into OpenClaw |
+| **Since 2016** | Building software and sharing technical knowledge |
 
-## 出版作品
+## What I Do
 
-已完成两项；其余进度见 [2aran.com/publications](https://2aran.com/publications)。
+- **AI engineering** — Build AI agents, model integrations, tool protocols, and context-aware applications for real-world use.
+- **Product development** — Take ideas from prototype to production, including deployment, authentication, testing, and operations.
+- **Technical writing** — Explain software engineering and AI through books, long-form articles, guides, and community talks.
+- **Community building** — Create spaces and resources for developers, creators, and people moving from frontend development into AI engineering.
+- **Entrepreneurship** — Lead MatrixLink and develop products and services around the AI developer ecosystem.
 
-| 作品 | 类型 | 时间 | 状态 |
-| :--- | --- | --- | --- |
-| [《程序员成长手记》](https://www.dedao.cn/ebook/detail?id=Lk89Yv4kyM12eaG795DmKAponOvLVWvoRl83ZzdbYxN84JQR6XgEqBPljrbpzARl) | 技术图书 | 2022–2023 | 已出版 |
-| [《AI Bots 通关指南》](https://juejin.cn/book/7351709145294176282) | 电子小册 | 2024 | 已发布 |
-| 《5 小时吃透大模型》 | 技术图书 | 2024–2025 | 已交稿 · 出版中 |
-| 《智能体实战（扣子 · n8n · Dify）》 | 联合创作 | 2025–2026 | 撰写中 |
-| 《Seedance 2.0 电影级 AI 视频创作指南》 | 联合创作 | 2026 上半年 | 已交稿 · 出版中 |
-| 《具身智能》 | 技术图书 | 2025 | 立项中 |
+## Publications
 
-## 开源贡献
+| Title | Format | Year | Status |
+| :--- | :--- | :---: | :--- |
+| [*Developer's Growth Handbook*](https://www.dedao.cn/ebook/detail?id=Lk89Yv4kyM12eaG795DmKAponOvLVWvoRl83ZzdbYxN84JQR6XgEqBPljrbpzARl) | Book | 2022–2023 | Published |
+| [*AI Bots: The Complete Guide*](https://juejin.cn/book/7351709145294176282) | E-book | 2024 | Released |
+| *Master LLMs in 5 Hours* | Book | 2024–2025 | Submitted for publication |
+| *AI Agents in Practice: Coze, n8n, and Dify* | Co-authored book | 2025–2026 | In progress |
+| *Seedance 2.0: A Guide to Cinematic AI Video Creation* | Co-authored book | 2026 | Submitted for publication |
+| *Embodied Intelligence* | Book | 2025 | In development |
 
-6 个 PR 已合并至 [`openclaw:main`](https://github.com/openclaw/openclaw/pulls?q=is%3Apr+author%3ATUARAN+is%3Amerged)。
+## Open Source
 
-| PR | 做了什么 |
+Six contributions have been merged into [`openclaw/openclaw`](https://github.com/openclaw/openclaw/pulls?q=is%3Apr+author%3ATUARAN+is%3Amerged):
+
+| Pull request | Contribution |
 | :---: | :--- |
-| [#120104](https://github.com/openclaw/openclaw/pull/120104) | 限制错误入站消息的重试次数 |
-| [#113200](https://github.com/openclaw/openclaw/pull/113200) | Doctor 尊重自定义插件加载路径 |
-| [#102537](https://github.com/openclaw/openclaw/pull/102537) | Anthropic 内联图片格式规范化 |
-| [#91553](https://github.com/openclaw/openclaw/pull/91553) | Tailscale Serve 启动状态重试 |
-| [#98320](https://github.com/openclaw/openclaw/pull/98320) | Feishu 媒体回复回退 |
-| [#90517](https://github.com/openclaw/openclaw/pull/90517) | Web Login 插件缺失提示 |
+| [#120104](https://github.com/openclaw/openclaw/pull/120104) | Capped retries for failed inbound messages |
+| [#113200](https://github.com/openclaw/openclaw/pull/113200) | Made Doctor respect custom plugin load paths |
+| [#102537](https://github.com/openclaw/openclaw/pull/102537) | Normalized inline image formats for Anthropic |
+| [#98320](https://github.com/openclaw/openclaw/pull/98320) | Added a fallback for Feishu media replies |
+| [#91553](https://github.com/openclaw/openclaw/pull/91553) | Added retries for Tailscale Serve startup checks |
+| [#90517](https://github.com/openclaw/openclaw/pull/90517) | Improved missing-plugin guidance for Web Login |
 
-## 站点与项目
+## Sites and Products
 
-**2aran.com**
+### Personal Projects
 
-| 站点 | 定位 |
+| Project | Description |
 | :--- | :--- |
-| [2aran.com](https://2aran.com) | 个人主页与长期内容索引 |
-| [weekly.2aran.com](https://weekly.2aran.com/) | 前端 / AI Agent / 大模型工程周刊 |
-| [syncblog.2aran.com](https://syncblog.2aran.com/) | Markdown 编辑与多平台分发 |
-| [rank.2aran.com](https://rank.2aran.com/) | 可拖拽的 AI 产品分级榜 |
-| [gptplus.2aran.com](https://gptplus.2aran.com/) | ChatGPT Plus / Pro 充值 |
-| [poemcn.2aran.com](https://poemcn.2aran.com/) | 古诗词检索 |
-| [workbuddy.2aran.com](https://workbuddy.2aran.com/) | WorkBuddy 案例与自动化资源 |
+| [2aran.com](https://2aran.com) | Personal website and long-term content index |
+| [2aran Weekly](https://weekly.2aran.com/) | A weekly publication about frontend development, AI agents, and LLM engineering |
+| [SyncBlog](https://syncblog.2aran.com/) | Markdown editing and multi-platform publishing |
+| [AI Product Rank](https://rank.2aran.com/) | A draggable tier list for AI products |
+| [GPT Plus](https://gptplus.2aran.com/) | ChatGPT Plus and Pro subscription service |
+| [PoemCN](https://poemcn.2aran.com/) | Search for classical Chinese poetry |
+| [WorkBuddy Resources](https://workbuddy.2aran.com/) | WorkBuddy examples and automation resources |
+| [WebLLM Playground](https://2aran.com/web-llm) | Browser-based LLM experiments powered by WebGPU |
 
-**品牌站**
+### Communities and Initiatives
 
-| 站点 | 定位 |
+| Project | Focus |
 | :--- | :--- |
-| [matrixlink.tech](https://matrixlink.tech) | 广州矩联科技 |
-| [blogger-alliance.cn](https://blogger-alliance.cn) | 博主联盟 |
-| [frontendnext.com](https://frontendnext.com) | 前端下一步 |
-| [iamvibecoder.cn](https://iamvibecoder.cn) | AI 编程共创社区 |
-| [openclaudecode.site](https://openclaudecode.site) | Claude Code Agent 循环拆解 |
-| [publishlab.cc](https://publishlab.cc) | AI 写作与数字出版 |
-| [frontend2aiagent.com](https://frontend2aiagent.com) | 前端 → AI Agent 工程师 |
+| [MatrixLink](https://matrixlink.tech) | AI products, developer services, and creator collaboration |
+| [Blogger Alliance](https://blogger-alliance.cn) | Collaboration network for independent creators |
+| [Frontend Next](https://frontendnext.com) | Resources for the next stage of frontend engineering |
+| [I Am Vibe Coder](https://iamvibecoder.cn) | Community for AI-assisted software development |
+| [Claude Code Unpacked](https://openclaudecode.site) | A practical breakdown of the Claude Code agent loop |
+| [PublishLab](https://publishlab.cc) | AI writing and digital publishing |
+| [Frontend to AI Agent](https://frontend2aiagent.com) | A learning path from frontend development to AI agent engineering |
 
-<details>
-<summary>工具箱与实验项目</summary>
+### Open-Source Projects
 
-| 项目 | 仓库 |
+| Repository | What it covers |
 | :--- | :--- |
-| 博主联盟 | [TUARAN/blogger-alliance](https://github.com/TUARAN/blogger-alliance) |
-| 前端下一步 | [TUARAN/frontend-weekly-digest-cn](https://github.com/TUARAN/frontend-weekly-digest-cn) |
-| 安东尼学AI | [TUARAN/AI-Learning-Library](https://github.com/TUARAN/AI-Learning-Library) |
-| Banana Gallery | [TUARAN/Awesome-Nano-Banana-images](https://github.com/TUARAN/Awesome-Nano-Banana-images) |
-| 提示词工程 | [TUARAN/awesome-prompt](https://github.com/TUARAN/awesome-prompt) |
-| 代码矿工 | [TUARAN/toolkit-hub](https://github.com/TUARAN/toolkit-hub) |
-| Claude Code Unpacked | [TUARAN/ccunpacked-zh](https://github.com/TUARAN/ccunpacked-zh) |
-| WebLLM | [TUARAN/webllm](https://github.com/TUARAN/webllm) · [2aran.com/web-llm](https://2aran.com/web-llm) |
+| [blogger-alliance](https://github.com/TUARAN/blogger-alliance) | Tools and resources for the Blogger Alliance |
+| [frontend-weekly-digest-cn](https://github.com/TUARAN/frontend-weekly-digest-cn) | Curated frontend and AI engineering news |
+| [AI-Learning-Library](https://github.com/TUARAN/AI-Learning-Library) | A structured library for learning AI |
+| [Awesome-Nano-Banana-images](https://github.com/TUARAN/Awesome-Nano-Banana-images) | A curated gallery of Nano Banana creations |
+| [awesome-prompt](https://github.com/TUARAN/awesome-prompt) | Prompt engineering resources and examples |
+| [toolkit-hub](https://github.com/TUARAN/toolkit-hub) | A collection of practical developer tools |
+| [ccunpacked-zh](https://github.com/TUARAN/ccunpacked-zh) | Chinese-language resources for understanding Claude Code |
+| [webllm](https://github.com/TUARAN/webllm) | Local, browser-based LLM experiments |
 
-</details>
+## Tech Stack
 
-## 技术栈
+- **Languages:** JavaScript, TypeScript, Python, Rust
+- **Frontend:** React, Vue 3, Vite, Tailwind CSS
+- **Backend and infrastructure:** Node.js, Docker, Cloudflare, Tauri
+- **AI engineering:** LLM applications, AI agents, MCP, context engineering, OpenClaw
 
-> 系统优先 · 自动化优先 · 长期可复用
+## Find Me Online
 
-JavaScript / TypeScript / Python / Rust · Vue 3 · Vite · Tailwind · Node.js · Docker · Tauri · LLM · Agent · MCP · OpenClaw
-
-## 联系
-
-微信 `atar24` · [tuaran666@gmail.com](mailto:tuaran666@gmail.com) · [2aran.com](https://2aran.com) · [掘金](https://juejin.cn/user/1521379823340792) · [小红书](https://www.xiaohongshu.com/user/profile/68b313f9000000001901d07e) · [CSDN](https://blog.csdn.net/aifs2025) · [51CTO](https://blog.51cto.com/u_15298598) · [GitHub](https://github.com/TUARAN)
+- **Website:** [2aran.com](https://2aran.com)
+- **GitHub:** [github.com/TUARAN](https://github.com/TUARAN)
+- **Juejin:** [Profile](https://juejin.cn/user/1521379823340792)
+- **Xiaohongshu:** [Profile](https://www.xiaohongshu.com/user/profile/68b313f9000000001901d07e)
+- **CSDN:** [Profile](https://blog.csdn.net/aifs2025)
+- **51CTO:** [blog.51cto.com/u_15298598](https://blog.51cto.com/u_15298598)
+- **Email:** [tuaran666@gmail.com](mailto:tuaran666@gmail.com)
+- **WeChat:** `atar24`
