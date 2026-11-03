@@ -29,7 +29,7 @@ AI 前沿部署工程师、技术作者、矩联科技创始人。研究 AI Agen
 
 ## 开源贡献
 
-已有 **12 个 PR** 合并至 [openclaw/openclaw](https://github.com/openclaw/openclaw/pulls?q=is%3Apr+author%3ATUARAN+is%3Amerged)，涉及模型上下文、消息通道、CLI 与插件等方向。具体变更和说明见[个人网站的 OpenClaw 贡献记录](https://2aran.com/about#openclaw)。
+已有 **12 个 PR** 合并至 [openclaw/openclaw](https://github.com/openclaw/openclaw/pulls?q=is%3Apr+author%3ATUARAN+is%3Amerged)，涉及模型上下文、消息通道、CLI 与插件等方向。具体变更和说明见[个人网站的 OpenClaw 贡献记录](https://2aran.com/about#openclaw-contributions)。
 
 ## 网站与项目
 
