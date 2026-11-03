@@ -43,4 +43,4 @@ AI 前沿部署工程师、技术作者、矩联科技创始人。研究 AI Agen
 
 ## 联系我
 
-[GitHub](https://github.com/TUARAN) · [掘金](https://juejin.cn/user/1521379823340792) · [小红书](https://www.xiaohongshu.com/user/profile/68b313f9000000001901d07e) · [CSDN](https://blog.csdn.net/aifs2025) · [51CTO](https://blog.51cto.com/u_15298598) · [邮箱](mailto:tuaran666@gmail.com)
+[GitHub](https://github.com/TUARAN) · [LinkedIn](https://www.linkedin.com/in/%E6%B6%82%E9%98%BF%E7%87%83-tuaran-473841210/) · [掘金](https://juejin.cn/user/1521379823340792) · [小红书](https://www.xiaohongshu.com/user/profile/68b313f9000000001901d07e) · [CSDN](https://blog.csdn.net/aifs2025) · [51CTO](https://blog.51cto.com/u_15298598) · [邮箱](mailto:tuaran666@gmail.com)
