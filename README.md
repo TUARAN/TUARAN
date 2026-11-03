@@ -43,4 +43,4 @@ AI deployment engineer, technical writer, and founder of [MatrixLink](https://ma
 
 ## Connect
 
-[GitHub](https://github.com/TUARAN) · [Juejin](https://juejin.cn/user/1521379823340792) · [Xiaohongshu](https://www.xiaohongshu.com/user/profile/68b313f9000000001901d07e) · [CSDN](https://blog.csdn.net/aifs2025) · [51CTO](https://blog.51cto.com/u_15298598) · [Email](mailto:tuaran666@gmail.com)
+[GitHub](https://github.com/TUARAN) · [LinkedIn](https://www.linkedin.com/in/%E6%B6%82%E9%98%BF%E7%87%83-tuaran-473841210/) · [Juejin](https://juejin.cn/user/1521379823340792) · [Xiaohongshu](https://www.xiaohongshu.com/user/profile/68b313f9000000001901d07e) · [CSDN](https://blog.csdn.net/aifs2025) · [51CTO](https://blog.51cto.com/u_15298598) · [Email](mailto:tuaran666@gmail.com)
