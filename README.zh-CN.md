@@ -11,8 +11,8 @@ AI 前沿部署工程师、技术作者、矩联科技创始人。研究 AI Agen
 | | |
 | :--- | :--- |
 | **1500+** | 公开内容 / 发帖 |
-| **千万+** | 技术内容阅读量 |
-| **3** | 已出版 / 发布作品 |
+| **百万+ / 月** | 内容曝光量 |
+| **4** | 已出版 / 发布作品 |
 | **12** | 合并至 OpenClaw 主分支的 PR |
 
 ## 我在做什么
@@ -25,13 +25,14 @@ AI 前沿部署工程师、技术作者、矩联科技创始人。研究 AI Agen
 
 | 作品 | 时间 | 类型 |
 | :--- | :---: | :--- |
+| [《Seedance：电影级AI视频创作指南》](https://2aran.com/books/seedance-guide)（与李谊林联合编著） | 2026 | 技术图书 |
 | [《AI大模型的底层逻辑》](https://2aran.com/books/llm-underlying-logic) | 2026 | 技术图书 |
 | [《程序员成长手记》](https://2aran.com/books/programmer-growth-notes) | 2023 | 技术图书 |
 | [《AI Bots 通关指南》](https://2aran.com/books/ai-bots-guide) | 2024 | 电子小册 |
 
 ## 开源贡献
 
-已有 **12 个 PR** 合并至 [openclaw/openclaw](https://github.com/openclaw/openclaw/pulls?q=is%3Apr+author%3ATUARAN+is%3Amerged)，涉及模型上下文、消息通道、CLI 与插件等方向。具体变更和说明见[个人网站的 OpenClaw 贡献记录](https://2aran.com/about#openclaw-contributions)。
+已有 **12 个 PR** 合并至 [openclaw/openclaw](https://github.com/openclaw/openclaw/pulls?q=is%3Apr+author%3ATUARAN+is%3Amerged)，涉及模型回退、工具结果与插件清单、消息通道、CLI 和网关行为。具体变更和说明见[个人网站的 OpenClaw 贡献记录](https://2aran.com/about#openclaw-contributions)。
 
 ## 网站与项目
 
