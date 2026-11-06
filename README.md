@@ -11,8 +11,8 @@ AI deployment engineer, technical writer, and founder of [MatrixLink](https://ma
 | | |
 | :--- | :--- |
 | **1,500+** | Technical articles and public posts |
-| **10M+** | Technical content reads |
-| **3** | Published works |
+| **1M+ / month** | Content impressions |
+| **4** | Published works |
 | **12** | Pull requests merged into OpenClaw's main branch |
 
 ## What I Do
@@ -25,13 +25,14 @@ AI deployment engineer, technical writer, and founder of [MatrixLink](https://ma
 
 | Work | Year | Format |
 | :--- | :---: | :--- |
+| [*Seedance: A Guide to Cinematic AI Video Creation*](https://2aran.com/books/seedance-guide) (《Seedance：电影级AI视频创作指南》; co-authored with Li Yilin) | 2026 | Technical book |
 | [*The Underlying Logic of Large Language Models*](https://2aran.com/books/llm-underlying-logic) (《AI大模型的底层逻辑》) | 2026 | Technical book |
 | [*A Programmer's Growth Notes*](https://2aran.com/books/programmer-growth-notes) (《程序员成长手记》) | 2023 | Technical book |
 | [*AI Bots: The Complete Guide*](https://2aran.com/books/ai-bots-guide) (《AI Bots 通关指南》) | 2024 | E-book |
 
 ## Open Source
 
-**12 PRs** have been merged into [openclaw/openclaw](https://github.com/openclaw/openclaw/pulls?q=is%3Apr+author%3ATUARAN+is%3Amerged), covering model context, messaging channels, CLI, and plugins. See the [OpenClaw contribution record](https://2aran.com/about#openclaw-contributions) for the individual changes.
+**12 PRs** have been merged into [openclaw/openclaw](https://github.com/openclaw/openclaw/pulls?q=is%3Apr+author%3ATUARAN+is%3Amerged), covering model fallback, tool results and plugin inventory, messaging channels, CLI, and gateway behavior. See the [OpenClaw contribution record](https://2aran.com/about#openclaw-contributions) for the individual changes.
 
 ## Websites and Projects
 
