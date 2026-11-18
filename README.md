@@ -65,6 +65,59 @@ As of **2026-11-18**, **29 PRs** merged across **6 external open-source projects
 
 [Source query](https://github.com/search?q=is%3Apr+is%3Amerged+author%3ATUARAN+-user%3ATUARAN&type=pullrequests) · [Data snapshot](assets/merged-contributions.json). Counts are a dated snapshot, not live statistics.
 
+## My Projects · Five to Explore
+
+Five starting points selected for active maintenance, collaboration and community interest.
+
+| Project | Stars | Other contributors | Commits · 90d |
+| :--- | ---: | ---: | ---: |
+| [tuaran-home-page](https://github.com/TUARAN/tuaran-home-page) | 0 | 1 | 1246 |
+| [blogger-alliance](https://github.com/TUARAN/blogger-alliance) | 9 | 16 | 17 |
+| [frontend-weekly-digest-cn](https://github.com/TUARAN/frontend-weekly-digest-cn) | 53 | 5 | 4 |
+| [envproof](https://github.com/TUARAN/envproof) | 0 | 0 | 6 |
+| [readmeproof](https://github.com/TUARAN/readmeproof) | 0 | 0 | 6 |
+
+![Project ranking matrix](assets/project-rankings-en.svg)
+
+<details>
+<summary>Ranking tables and methodology</summary>
+
+**Star Top 5**
+
+| # | Project | Count |
+| ---: | :--- | ---: |
+| 1 | [TUARAN/frontend-weekly-digest-cn](https://github.com/TUARAN/frontend-weekly-digest-cn) | 53 |
+| 2 | [TUARAN/blogger-alliance](https://github.com/TUARAN/blogger-alliance) | 9 |
+| 3 | [TUARAN/TreasureToolHub](https://github.com/TUARAN/TreasureToolHub) | 3 |
+| 4 | [TUARAN/AI-Learning-Library](https://github.com/TUARAN/AI-Learning-Library) | 1 |
+| 5 | [TUARAN/before-404-archive](https://github.com/TUARAN/before-404-archive) | 1 |
+
+**Other contributors Top 5**
+
+| # | Project | Count |
+| ---: | :--- | ---: |
+| 1 | [TUARAN/blogger-alliance](https://github.com/TUARAN/blogger-alliance) | 16 |
+| 2 | [TUARAN/frontend-weekly-digest-cn](https://github.com/TUARAN/frontend-weekly-digest-cn) | 5 |
+| 3 | [TUARAN/tuaran-home-page](https://github.com/TUARAN/tuaran-home-page) | 1 |
+| 4 | [TUARAN/TreasureToolHub](https://github.com/TUARAN/TreasureToolHub) | 0 |
+| 5 | [TUARAN/AI-Learning-Library](https://github.com/TUARAN/AI-Learning-Library) | 0 |
+
+**My commits in the last 90 days · Top 5**
+
+| # | Project | Count |
+| ---: | :--- | ---: |
+| 1 | [TUARAN/tuaran-home-page](https://github.com/TUARAN/tuaran-home-page) | 1246 |
+| 2 | [TUARAN/blogger-alliance](https://github.com/TUARAN/blogger-alliance) | 17 |
+| 3 | [TUARAN/envproof](https://github.com/TUARAN/envproof) | 6 |
+| 4 | [TUARAN/readmeproof](https://github.com/TUARAN/readmeproof) | 6 |
+| 5 | [TUARAN/whichrules](https://github.com/TUARAN/whichrules) | 6 |
+
+As of 2026-11-18. Public non-fork repositories owned by TUARAN; the profile README repository is excluded. Other contributors are default-branch commit authors, excluding TUARAN and accounts marked Bot; this is not a count of repository access members. Activity counts my commits in the last 90 days, including merges, and does not measure code volume or quality. Ties use stars, then repository name. Recommendations are editorial selections, not weighted scores.
+
+[JSON snapshot](assets/project-rankings.json)
+
+</details>
+
 ## Websites and Projects
 
 [**2aran.com**](https://2aran.com) · AI engineering, technical publishing & developer community

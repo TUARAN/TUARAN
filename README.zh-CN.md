@@ -65,6 +65,59 @@ AI 前沿部署工程师、技术作者、矩联科技创始人。研究 AI Agen
 
 [查询来源](https://github.com/search?q=is%3Apr+is%3Amerged+author%3ATUARAN+-user%3ATUARAN&type=pullrequests) · [数据快照](assets/merged-contributions.json)。以上为核验日期的快照，非实时统计。
 
+## 自建项目 · 推荐前五
+
+结合近期维护、协作规模与社区关注，推荐从以下五个项目开始。
+
+| 项目 | Star | 其他贡献者 | 近90天提交 |
+| :--- | ---: | ---: | ---: |
+| [tuaran-home-page](https://github.com/TUARAN/tuaran-home-page) | 0 | 1 | 1246 |
+| [blogger-alliance](https://github.com/TUARAN/blogger-alliance) | 9 | 16 | 17 |
+| [frontend-weekly-digest-cn](https://github.com/TUARAN/frontend-weekly-digest-cn) | 53 | 5 | 4 |
+| [envproof](https://github.com/TUARAN/envproof) | 0 | 0 | 6 |
+| [readmeproof](https://github.com/TUARAN/readmeproof) | 0 | 0 | 6 |
+
+![Project ranking matrix](assets/project-rankings-zh.svg)
+
+<details>
+<summary>三项榜单与统计口径</summary>
+
+**Star Top 5**
+
+| # | Project | 数量 |
+| ---: | :--- | ---: |
+| 1 | [TUARAN/frontend-weekly-digest-cn](https://github.com/TUARAN/frontend-weekly-digest-cn) | 53 |
+| 2 | [TUARAN/blogger-alliance](https://github.com/TUARAN/blogger-alliance) | 9 |
+| 3 | [TUARAN/TreasureToolHub](https://github.com/TUARAN/TreasureToolHub) | 3 |
+| 4 | [TUARAN/AI-Learning-Library](https://github.com/TUARAN/AI-Learning-Library) | 1 |
+| 5 | [TUARAN/before-404-archive](https://github.com/TUARAN/before-404-archive) | 1 |
+
+**其他贡献者 Top 5**
+
+| # | Project | 数量 |
+| ---: | :--- | ---: |
+| 1 | [TUARAN/blogger-alliance](https://github.com/TUARAN/blogger-alliance) | 16 |
+| 2 | [TUARAN/frontend-weekly-digest-cn](https://github.com/TUARAN/frontend-weekly-digest-cn) | 5 |
+| 3 | [TUARAN/tuaran-home-page](https://github.com/TUARAN/tuaran-home-page) | 1 |
+| 4 | [TUARAN/TreasureToolHub](https://github.com/TUARAN/TreasureToolHub) | 0 |
+| 5 | [TUARAN/AI-Learning-Library](https://github.com/TUARAN/AI-Learning-Library) | 0 |
+
+**近90天本人提交 Top 5**
+
+| # | Project | 数量 |
+| ---: | :--- | ---: |
+| 1 | [TUARAN/tuaran-home-page](https://github.com/TUARAN/tuaran-home-page) | 1246 |
+| 2 | [TUARAN/blogger-alliance](https://github.com/TUARAN/blogger-alliance) | 17 |
+| 3 | [TUARAN/envproof](https://github.com/TUARAN/envproof) | 6 |
+| 4 | [TUARAN/readmeproof](https://github.com/TUARAN/readmeproof) | 6 |
+| 5 | [TUARAN/whichrules](https://github.com/TUARAN/whichrules) | 6 |
+
+截至2026-11-18；只计本人名下公开非 fork 仓库，项目榜单排除主页 README 仓库。其他贡献者按 GitHub 默认分支提交贡献者统计，排除本人和标记为 Bot 的账号，不等同权限协作者。活跃度为近90天本人提交次数，含合并提交，不代表代码量或质量。同值按 Star、仓库名排序；推荐位为综合选择，不是加权评分。
+
+[JSON snapshot](assets/project-rankings.json)
+
+</details>
+
 ## 网站与项目
 
 [**2aran.com**](https://2aran.com) · AI 工程、内容创作与开发者社区

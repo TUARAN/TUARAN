@@ -1,0 +1,881 @@
+{
+  "asOf": "2026-11-18",
+  "repositories": [
+    {
+      "name": "TUARAN/agent-ops",
+      "url": "https://github.com/TUARAN/agent-ops",
+      "description": null,
+      "stars": 0,
+      "contributors": 1,
+      "collaborators": 0,
+      "people": [
+        {
+          "login": "TUARAN",
+          "contributions": 3
+        }
+      ],
+      "commits90d": 1
+    },
+    {
+      "name": "TUARAN/AI-Learning-Library",
+      "url": "https://github.com/TUARAN/AI-Learning-Library",
+      "description": "安东尼学AI：让 AI / 机器学习 / 深度学习 相关书籍变成可浏览的在线知识库",
+      "stars": 1,
+      "contributors": 1,
+      "collaborators": 0,
+      "people": [
+        {
+          "login": "TUARAN",
+          "contributions": 37
+        }
+      ],
+      "commits90d": 0
+    },
+    {
+      "name": "TUARAN/ai-trading-journal",
+      "url": "https://github.com/TUARAN/ai-trading-journal",
+      "description": "AI Trading Journal 是一个开源的交易记录与优化平台，专注于展示人与大模型（AI交易员）在股市、期货、加密市场三大领域的交互过程。项目支持记录每一次与 AI 的对话、交易决策、策略优化和收益分析，帮助用户复盘和提升交易能力。界面美观，数据可视化丰富，适合个人投资者、量化团队和 AI 交易爱好者学习与交流。",
+      "stars": 0,
+      "contributors": 1,
+      "collaborators": 0,
+      "people": [
+        {
+          "login": "TUARAN",
+          "contributions": 6
+        }
+      ],
+      "commits90d": 0
+    },
+    {
+      "name": "TUARAN/aranapi",
+      "url": "https://github.com/TUARAN/aranapi",
+      "description": "New API gateway packaging: systemd, GitHub Actions release, optional Docker Compose",
+      "stars": 0,
+      "contributors": 1,
+      "collaborators": 0,
+      "people": [
+        {
+          "login": "TUARAN",
+          "contributions": 6
+        }
+      ],
+      "commits90d": 0
+    },
+    {
+      "name": "TUARAN/avatar-qrcode",
+      "url": "https://github.com/TUARAN/avatar-qrcode",
+      "description": "融合头像与二维码实现",
+      "stars": 0,
+      "contributors": 1,
+      "collaborators": 0,
+      "people": [
+        {
+          "login": "TUARAN",
+          "contributions": 1
+        }
+      ],
+      "commits90d": 0
+    },
+    {
+      "name": "TUARAN/awesome-prompt",
+      "url": "https://github.com/TUARAN/awesome-prompt",
+      "description": "专注于「技术写作上下文工程」。它不仅整理了从结构层到动态上下文管线的完整方法论，还提供可直接落地的模板、案例和实践建议。",
+      "stars": 0,
+      "contributors": 1,
+      "collaborators": 0,
+      "people": [
+        {
+          "login": "TUARAN",
+          "contributions": 14
+        }
+      ],
+      "commits90d": 0
+    },
+    {
+      "name": "TUARAN/before-404-archive",
+      "url": "https://github.com/TUARAN/before-404-archive",
+      "description": "Archive projects that are about to 404; download locally and store with checksums.",
+      "stars": 1,
+      "contributors": 1,
+      "collaborators": 0,
+      "people": [
+        {
+          "login": "TUARAN",
+          "contributions": 5
+        }
+      ],
+      "commits90d": 0
+    },
+    {
+      "name": "TUARAN/blogger-alliance",
+      "url": "https://github.com/TUARAN/blogger-alliance",
+      "description": "开发者博主联盟",
+      "stars": 9,
+      "contributors": 17,
+      "collaborators": 16,
+      "people": [
+        {
+          "login": "TUARAN",
+          "contributions": 219
+        },
+        {
+          "login": "miyuesc",
+          "contributions": 3
+        },
+        {
+          "login": "ErpanOmer",
+          "contributions": 2
+        },
+        {
+          "login": "XiaomingX",
+          "contributions": 2
+        },
+        {
+          "login": "stick-i",
+          "contributions": 2
+        },
+        {
+          "login": "gylzbk",
+          "contributions": 1
+        },
+        {
+          "login": "ZxBing0066",
+          "contributions": 1
+        },
+        {
+          "login": "lightrain-a",
+          "contributions": 1
+        },
+        {
+          "login": "linweiqian",
+          "contributions": 1
+        },
+        {
+          "login": "tea-blog",
+          "contributions": 1
+        },
+        {
+          "login": "itcastWsy",
+          "contributions": 1
+        },
+        {
+          "login": "zcxiaobao",
+          "contributions": 1
+        },
+        {
+          "login": "zeng-hang",
+          "contributions": 1
+        },
+        {
+          "login": "Moonofweisheng",
+          "contributions": 1
+        },
+        {
+          "login": "chnjames",
+          "contributions": 1
+        },
+        {
+          "login": "Quick-Z",
+          "contributions": 1
+        },
+        {
+          "login": "chenbimo",
+          "contributions": 1
+        }
+      ],
+      "commits90d": 17
+    },
+    {
+      "name": "TUARAN/ccunpacked-zh",
+      "url": "https://github.com/TUARAN/ccunpacked-zh",
+      "description": "Claude Code 全面解析 - 中文版",
+      "stars": 0,
+      "contributors": 1,
+      "collaborators": 0,
+      "people": [
+        {
+          "login": "TUARAN",
+          "contributions": 2
+        }
+      ],
+      "commits90d": 0
+    },
+    {
+      "name": "TUARAN/codex-model-switcher",
+      "url": "https://github.com/TUARAN/codex-model-switcher",
+      "description": "Native macOS Codex model switcher with secure Keychain storage and local usage charts",
+      "stars": 0,
+      "contributors": 1,
+      "collaborators": 0,
+      "people": [
+        {
+          "login": "TUARAN",
+          "contributions": 1
+        }
+      ],
+      "commits90d": 1
+    },
+    {
+      "name": "TUARAN/cursor-mobile-agent",
+      "url": "https://github.com/TUARAN/cursor-mobile-agent",
+      "description": "用手机也能写代码辣！！！",
+      "stars": 0,
+      "contributors": 0,
+      "collaborators": 0,
+      "people": [],
+      "commits90d": 0
+    },
+    {
+      "name": "TUARAN/database-normalization-platform",
+      "url": "https://github.com/TUARAN/database-normalization-platform",
+      "description": "数据库范式教学平台 - 从1NF到5NF的完整学习系统",
+      "stars": 0,
+      "contributors": 1,
+      "collaborators": 0,
+      "people": [
+        {
+          "login": "TUARAN",
+          "contributions": 2
+        }
+      ],
+      "commits90d": 0
+    },
+    {
+      "name": "TUARAN/dev-odyssey",
+      "url": "https://github.com/TUARAN/dev-odyssey",
+      "description": null,
+      "stars": 0,
+      "contributors": 1,
+      "collaborators": 0,
+      "people": [
+        {
+          "login": "TUARAN",
+          "contributions": 6
+        }
+      ],
+      "commits90d": 0
+    },
+    {
+      "name": "TUARAN/eatwhat",
+      "url": "https://github.com/TUARAN/eatwhat",
+      "description": null,
+      "stars": 0,
+      "contributors": 1,
+      "collaborators": 0,
+      "people": [
+        {
+          "login": "TUARAN",
+          "contributions": 4
+        }
+      ],
+      "commits90d": 0
+    },
+    {
+      "name": "TUARAN/edge-llm-workbench",
+      "url": "https://github.com/TUARAN/edge-llm-workbench",
+      "description": "A production-oriented blueprint for building offline local AI apps: LLM + Scripts + Tools + Local Execution (Edge AI runtime).",
+      "stars": 0,
+      "contributors": 1,
+      "collaborators": 0,
+      "people": [
+        {
+          "login": "TUARAN",
+          "contributions": 2
+        }
+      ],
+      "commits90d": 0
+    },
+    {
+      "name": "TUARAN/En-Library",
+      "url": "https://github.com/TUARAN/En-Library",
+      "description": "English connects you to global knowledge, communities, and opportunities. Consistent practice in vocabulary, reading, and speaking builds confidence and fluency.",
+      "stars": 0,
+      "contributors": 1,
+      "collaborators": 0,
+      "people": [
+        {
+          "login": "TUARAN",
+          "contributions": 1
+        }
+      ],
+      "commits90d": 0
+    },
+    {
+      "name": "TUARAN/encryption-demo",
+      "url": "https://github.com/TUARAN/encryption-demo",
+      "description": "本项目是一个纯前端多层加密流程可视化演示工具。所有加解密逻辑均在浏览器端完成，无需后端参与，适合教学、原理理解、流程分析。",
+      "stars": 0,
+      "contributors": 0,
+      "collaborators": 0,
+      "people": [],
+      "commits90d": 0
+    },
+    {
+      "name": "TUARAN/envproof",
+      "url": "https://github.com/TUARAN/envproof",
+      "description": "Prove your .env.example matches the environment variables your code uses.",
+      "stars": 0,
+      "contributors": 1,
+      "collaborators": 0,
+      "people": [
+        {
+          "login": "TUARAN",
+          "contributions": 6
+        }
+      ],
+      "commits90d": 6
+    },
+    {
+      "name": "TUARAN/fans-tracker",
+      "url": "https://github.com/TUARAN/fans-tracker",
+      "description": "一个围绕「技术创作者矩阵运营」打造的内容驾驶舱",
+      "stars": 0,
+      "contributors": 1,
+      "collaborators": 0,
+      "people": [
+        {
+          "login": "TUARAN",
+          "contributions": 62
+        }
+      ],
+      "commits90d": 1
+    },
+    {
+      "name": "TUARAN/frontend-weekly-digest-cn",
+      "url": "https://github.com/TUARAN/frontend-weekly-digest-cn",
+      "description": "📘每周更新国外论坛的前端热门文章，推荐大家阅读/翻译，紧跟时事，掌握前端技术动态～",
+      "stars": 53,
+      "contributors": 6,
+      "collaborators": 5,
+      "people": [
+        {
+          "login": "TUARAN",
+          "contributions": 1282
+        },
+        {
+          "login": "ZxBing0066",
+          "contributions": 34
+        },
+        {
+          "login": "zeng-hang",
+          "contributions": 18
+        },
+        {
+          "login": "Wyatex",
+          "contributions": 8
+        },
+        {
+          "login": "cursoragent",
+          "contributions": 5
+        },
+        {
+          "login": "KKKKhazix",
+          "contributions": 1
+        }
+      ],
+      "commits90d": 4
+    },
+    {
+      "name": "TUARAN/frontend2aiagent.com",
+      "url": "https://github.com/TUARAN/frontend2aiagent.com",
+      "description": null,
+      "stars": 0,
+      "contributors": 1,
+      "collaborators": 0,
+      "people": [
+        {
+          "login": "TUARAN",
+          "contributions": 3
+        }
+      ],
+      "commits90d": 0
+    },
+    {
+      "name": "TUARAN/FuckWork",
+      "url": "https://github.com/TUARAN/FuckWork",
+      "description": "干烂这破公司 - 打工人反击联盟",
+      "stars": 0,
+      "contributors": 1,
+      "collaborators": 0,
+      "people": [
+        {
+          "login": "TUARAN",
+          "contributions": 1
+        }
+      ],
+      "commits90d": 0
+    },
+    {
+      "name": "TUARAN/github-auto-follow",
+      "url": "https://github.com/TUARAN/github-auto-follow",
+      "description": "自动关注",
+      "stars": 0,
+      "contributors": 1,
+      "collaborators": 0,
+      "people": [
+        {
+          "login": "TUARAN",
+          "contributions": 34
+        }
+      ],
+      "commits90d": 0
+    },
+    {
+      "name": "TUARAN/github-sentinel",
+      "url": "https://github.com/TUARAN/github-sentinel",
+      "description": "Defensive scanner for newly-created public GitHub repositories",
+      "stars": 1,
+      "contributors": 1,
+      "collaborators": 0,
+      "people": [
+        {
+          "login": "TUARAN",
+          "contributions": 5
+        }
+      ],
+      "commits90d": 5
+    },
+    {
+      "name": "TUARAN/iamvibecoder",
+      "url": "https://github.com/TUARAN/iamvibecoder",
+      "description": "人人都是程序员",
+      "stars": 0,
+      "contributors": 1,
+      "collaborators": 0,
+      "people": [
+        {
+          "login": "TUARAN",
+          "contributions": 5
+        }
+      ],
+      "commits90d": 0
+    },
+    {
+      "name": "TUARAN/image-host",
+      "url": "https://github.com/TUARAN/image-host",
+      "description": "支持 raw.githubusercontent.com 的公网直链格式",
+      "stars": 0,
+      "contributors": 0,
+      "collaborators": 0,
+      "people": [],
+      "commits90d": 0
+    },
+    {
+      "name": "TUARAN/juejin-welfare-clicker",
+      "url": "https://github.com/TUARAN/juejin-welfare-clicker",
+      "description": "掘金福利页补签卡兑换 Chrome 扩展（自建使用，请遵守平台规则）",
+      "stars": 0,
+      "contributors": 1,
+      "collaborators": 0,
+      "people": [
+        {
+          "login": "TUARAN",
+          "contributions": 5
+        }
+      ],
+      "commits90d": 0
+    },
+    {
+      "name": "TUARAN/liuguang-shiyu",
+      "url": "https://github.com/TUARAN/liuguang-shiyu",
+      "description": "A beautiful soul quotes website",
+      "stars": 0,
+      "contributors": 1,
+      "collaborators": 0,
+      "people": [
+        {
+          "login": "TUARAN",
+          "contributions": 2
+        }
+      ],
+      "commits90d": 0
+    },
+    {
+      "name": "TUARAN/matrix-alliance",
+      "url": "https://github.com/TUARAN/matrix-alliance",
+      "description": "矩阵联盟：用\"矩阵化生产力\"对抗单账号不确定性，把创作做成系统",
+      "stars": 0,
+      "contributors": 1,
+      "collaborators": 0,
+      "people": [
+        {
+          "login": "TUARAN",
+          "contributions": 11
+        }
+      ],
+      "commits90d": 1
+    },
+    {
+      "name": "TUARAN/MatrixFans",
+      "url": "https://github.com/TUARAN/MatrixFans",
+      "description": "一个专业的多账号矩阵涨粉数据管理平台，支持多平台账号统一管理、数据追踪和增长分析。",
+      "stars": 1,
+      "contributors": 1,
+      "collaborators": 0,
+      "people": [
+        {
+          "login": "TUARAN",
+          "contributions": 18
+        }
+      ],
+      "commits90d": 0
+    },
+    {
+      "name": "TUARAN/MatrixLinkTech",
+      "url": "https://github.com/TUARAN/MatrixLinkTech",
+      "description": "广州矩联科技有限公司官网",
+      "stars": 0,
+      "contributors": 1,
+      "collaborators": 0,
+      "people": [
+        {
+          "login": "TUARAN",
+          "contributions": 11
+        }
+      ],
+      "commits90d": 1
+    },
+    {
+      "name": "TUARAN/mom-coupon-h5",
+      "url": "https://github.com/TUARAN/mom-coupon-h5",
+      "description": "宝妈省钱神器 ：一个专为母婴群体设计的优惠券领取H5网页应用，提供精选的母婴用品优惠券信息。",
+      "stars": 0,
+      "contributors": 1,
+      "collaborators": 0,
+      "people": [
+        {
+          "login": "TUARAN",
+          "contributions": 5
+        }
+      ],
+      "commits90d": 0
+    },
+    {
+      "name": "TUARAN/openclaw-issue-pr-tool",
+      "url": "https://github.com/TUARAN/openclaw-issue-pr-tool",
+      "description": "OpenClaw issue scanner and PR automation helper",
+      "stars": 0,
+      "contributors": 1,
+      "collaborators": 0,
+      "people": [
+        {
+          "login": "TUARAN",
+          "contributions": 10
+        }
+      ],
+      "commits90d": 0
+    },
+    {
+      "name": "TUARAN/OpenClawLocal",
+      "url": "https://github.com/TUARAN/OpenClawLocal",
+      "description": "快速集成本地大模型，7*24小时操作电脑，无需天价token费用，一件配置连飞书，openclaw“真落地”版本",
+      "stars": 0,
+      "contributors": 0,
+      "collaborators": 0,
+      "people": [],
+      "commits90d": 0
+    },
+    {
+      "name": "TUARAN/personal-projects",
+      "url": "https://github.com/TUARAN/personal-projects",
+      "description": "TUARAN 个人项目统一索引：代码开放，数据按最小权限管理",
+      "stars": 0,
+      "contributors": 1,
+      "collaborators": 0,
+      "people": [
+        {
+          "login": "TUARAN",
+          "contributions": 1
+        }
+      ],
+      "commits90d": 0
+    },
+    {
+      "name": "TUARAN/ProductDiagramCopilot",
+      "url": "https://github.com/TUARAN/ProductDiagramCopilot",
+      "description": "产品智绘官 是一款面向产品科室与业务支撑团队的 AI 可视化辅助工具，聚焦解决产品方案输出、系统对接说明及结算类业务分析过程中 流程图依赖高、人工绘制成本大、规范难统一 等长期痛点。",
+      "stars": 0,
+      "contributors": 1,
+      "collaborators": 0,
+      "people": [
+        {
+          "login": "TUARAN",
+          "contributions": 15
+        }
+      ],
+      "commits90d": 0
+    },
+    {
+      "name": "TUARAN/publishlab",
+      "url": "https://github.com/TUARAN/publishlab",
+      "description": null,
+      "stars": 0,
+      "contributors": 1,
+      "collaborators": 0,
+      "people": [
+        {
+          "login": "TUARAN",
+          "contributions": 8
+        }
+      ],
+      "commits90d": 1
+    },
+    {
+      "name": "TUARAN/readmeproof",
+      "url": "https://github.com/TUARAN/readmeproof",
+      "description": "Your README says it works. Prove it in CI.",
+      "stars": 0,
+      "contributors": 1,
+      "collaborators": 0,
+      "people": [
+        {
+          "login": "TUARAN",
+          "contributions": 6
+        }
+      ],
+      "commits90d": 6
+    },
+    {
+      "name": "TUARAN/SaaS-skills",
+      "url": "https://github.com/TUARAN/SaaS-skills",
+      "description": null,
+      "stars": 0,
+      "contributors": 1,
+      "collaborators": 0,
+      "people": [
+        {
+          "login": "TUARAN",
+          "contributions": 1
+        }
+      ],
+      "commits90d": 0
+    },
+    {
+      "name": "TUARAN/smart-news-platform",
+      "url": "https://github.com/TUARAN/smart-news-platform",
+      "description": "smart-news-platform",
+      "stars": 0,
+      "contributors": 1,
+      "collaborators": 0,
+      "people": [
+        {
+          "login": "TUARAN",
+          "contributions": 1
+        }
+      ],
+      "commits90d": 0
+    },
+    {
+      "name": "TUARAN/SMSTaggingOfficer",
+      "url": "https://github.com/TUARAN/SMSTaggingOfficer",
+      "description": "短信智标官（SMS Tagging Officer） 是一款面向海量短信数据的智能分类与结构化标注系统，定位为“短信认知与治理的数字员工”。它基于本地部署的小模型与规则引擎协同工作，能够自动识别短信所属行业、业务类型与关键字段，将原本杂乱的文本转化为可分析、可检索、可统计的结构化数据。  系统核心能力包括：行业分类、语义打标、实体抽取与低置信度复核闭环。通过桌面化的批处理与人工校验界面，用户可以在几千到数万条短信规模下实现稳定、高一致性的标签生产，并将结果直接用于数据治理、业务分析、风控监测或产品运营。作为“智×官”系列的一员，短信智标官强调可离线运行、可版本追踪与可持续演进，适合在政企与企业内部环境中长期部署，承担短信信息理解与标签治理的基础角色。",
+      "stars": 0,
+      "contributors": 1,
+      "collaborators": 0,
+      "people": [
+        {
+          "login": "TUARAN",
+          "contributions": 4
+        }
+      ],
+      "commits90d": 0
+    },
+    {
+      "name": "TUARAN/TarTab",
+      "url": "https://github.com/TUARAN/TarTab",
+      "description": "“Tab Your Mind.” —— 一个开发者导向的智能信息中枢",
+      "stars": 0,
+      "contributors": 1,
+      "collaborators": 0,
+      "people": [
+        {
+          "login": "TUARAN",
+          "contributions": 2
+        }
+      ],
+      "commits90d": 0
+    },
+    {
+      "name": "TUARAN/Tasnia-aes",
+      "url": "https://github.com/TUARAN/Tasnia-aes",
+      "description": "aes加密演示及相关 by gemeni3",
+      "stars": 0,
+      "contributors": 1,
+      "collaborators": 0,
+      "people": [
+        {
+          "login": "TUARAN",
+          "contributions": 4
+        }
+      ],
+      "commits90d": 1
+    },
+    {
+      "name": "TUARAN/toolkit-hub",
+      "url": "https://github.com/TUARAN/toolkit-hub",
+      "description": "代码矿工-工具集 ：一个实用的开发工具集合，包含多种常用工具，提升开发效率。",
+      "stars": 0,
+      "contributors": 1,
+      "collaborators": 0,
+      "people": [
+        {
+          "login": "TUARAN",
+          "contributions": 5
+        }
+      ],
+      "commits90d": 0
+    },
+    {
+      "name": "TUARAN/TreasureToolHub",
+      "url": "https://github.com/TUARAN/TreasureToolHub",
+      "description": "持续更新的开发工具推荐平台，精选最实用的开发工具、服务和资源。提供深度评测、使用技巧和最佳实践，帮助开发者提升工作效率，激发创新灵感。适合开发者、DevOps工程师和技术团队发现创新解决方案。",
+      "stars": 3,
+      "contributors": 1,
+      "collaborators": 0,
+      "people": [
+        {
+          "login": "TUARAN",
+          "contributions": 7
+        }
+      ],
+      "commits90d": 0
+    },
+    {
+      "name": "TUARAN/TUARAN",
+      "url": "https://github.com/TUARAN/TUARAN",
+      "description": "README",
+      "stars": 0,
+      "contributors": 1,
+      "collaborators": 0,
+      "people": [
+        {
+          "login": "TUARAN",
+          "contributions": 29
+        }
+      ],
+      "commits90d": 20
+    },
+    {
+      "name": "TUARAN/tuaran-home-page",
+      "url": "https://github.com/TUARAN/tuaran-home-page",
+      "description": "昨日黄土陇头送白骨 今宵红灯帐底卧鸳鸯",
+      "stars": 0,
+      "contributors": 2,
+      "collaborators": 1,
+      "people": [
+        {
+          "login": "TUARAN",
+          "contributions": 2831
+        },
+        {
+          "login": "cursoragent",
+          "contributions": 28
+        }
+      ],
+      "commits90d": 1246
+    },
+    {
+      "name": "TUARAN/tuaran.github.io",
+      "url": "https://github.com/TUARAN/tuaran.github.io",
+      "description": null,
+      "stars": 0,
+      "contributors": 1,
+      "collaborators": 0,
+      "people": [
+        {
+          "login": "TUARAN",
+          "contributions": 6
+        }
+      ],
+      "commits90d": 0
+    },
+    {
+      "name": "TUARAN/webllm",
+      "url": "https://github.com/TUARAN/webllm",
+      "description": null,
+      "stars": 0,
+      "contributors": 1,
+      "collaborators": 0,
+      "people": [
+        {
+          "login": "TUARAN",
+          "contributions": 3
+        }
+      ],
+      "commits90d": 0
+    },
+    {
+      "name": "TUARAN/weeklog-inspector",
+      "url": "https://github.com/TUARAN/weeklog-inspector",
+      "description": "本地运行的「周报智评官」桌面应用：导入周报、自动结构化、溯源记录、因子评分、生成可解释点评与趋势报表。",
+      "stars": 0,
+      "contributors": 0,
+      "collaborators": 0,
+      "people": [],
+      "commits90d": 0
+    },
+    {
+      "name": "TUARAN/whichrules",
+      "url": "https://github.com/TUARAN/whichrules",
+      "description": "See which AGENTS.md instructions apply to any file.",
+      "stars": 0,
+      "contributors": 1,
+      "collaborators": 0,
+      "people": [
+        {
+          "login": "TUARAN",
+          "contributions": 6
+        }
+      ],
+      "commits90d": 6
+    },
+    {
+      "name": "TUARAN/xiaohongshu-mcp-blue2red",
+      "url": "https://github.com/TUARAN/xiaohongshu-mcp-blue2red",
+      "description": null,
+      "stars": 0,
+      "contributors": 1,
+      "collaborators": 0,
+      "people": [
+        {
+          "login": "TUARAN",
+          "contributions": 1
+        }
+      ],
+      "commits90d": 0
+    }
+  ],
+  "activitySince": "2026-08-20T01:22:43.652781+00:00",
+  "activityWindowDays": 90,
+  "activityScope": "Commits authored by TUARAN reachable from default branch; profile repository excluded from project rankings",
+  "rankings": {
+    "stars": [
+      "TUARAN/frontend-weekly-digest-cn",
+      "TUARAN/blogger-alliance",
+      "TUARAN/TreasureToolHub",
+      "TUARAN/AI-Learning-Library",
+      "TUARAN/before-404-archive"
+    ],
+    "collaborators": [
+      "TUARAN/blogger-alliance",
+      "TUARAN/frontend-weekly-digest-cn",
+      "TUARAN/tuaran-home-page",
+      "TUARAN/TreasureToolHub",
+      "TUARAN/AI-Learning-Library"
+    ],
+    "commits90d": [
+      "TUARAN/tuaran-home-page",
+      "TUARAN/blogger-alliance",
+      "TUARAN/envproof",
+      "TUARAN/readmeproof",
+      "TUARAN/whichrules"
+    ]
+  },
+  "recommended": [
+    "TUARAN/tuaran-home-page",
+    "TUARAN/blogger-alliance",
+    "TUARAN/frontend-weekly-digest-cn",
+    "TUARAN/envproof",
+    "TUARAN/readmeproof"
+  ]
+}
