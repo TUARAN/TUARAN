@@ -2,6 +2,8 @@
 
 # TUARAN
 
+![TUARAN — AI engineer, author and founder](assets/intro-typing.svg)
+
 AI deployment engineer, technical writer, and founder of [MatrixLink](https://matrixlink.tech). I work on AI agents, model tool protocols, and context engineering, then bring those capabilities into real products—from prototypes and deployment to authentication, testing, and maintenance.
 
 [Website](https://2aran.com) · [About](https://2aran.com/about) · [Publications](https://2aran.com/publications) · [Email](mailto:tuaran666@gmail.com)
@@ -29,6 +31,15 @@ AI deployment engineer, technical writer, and founder of [MatrixLink](https://ma
 - **Products and community:** Build [MatrixLink](https://matrixlink.tech) and [Blogger Alliance](https://blogger-alliance.cn/) around the AI developer ecosystem, creator collaboration, and technical services.
 
 ## Publications
+
+<table>
+<tr>
+<td align="center" width="25%"><a href="https://2aran.com/books/seedance-guide"><img src="assets/book-seedance-guide.jpg" width="190" alt="Seedance" /></a><br><a href="https://2aran.com/books/seedance-guide">Seedance</a></td>
+<td align="center" width="25%"><a href="https://2aran.com/books/llm-underlying-logic"><img src="assets/book-llm-underlying-logic.jpg" width="190" alt="AI大模型的底层逻辑" /></a><br><a href="https://2aran.com/books/llm-underlying-logic">AI大模型的底层逻辑</a></td>
+<td align="center" width="25%"><a href="https://2aran.com/books/programmer-growth-notes"><img src="assets/book-programmer-growth-notes.jpg" width="190" alt="程序员成长手记" /></a><br><a href="https://2aran.com/books/programmer-growth-notes">程序员成长手记</a></td>
+<td align="center" width="25%"><a href="https://2aran.com/books/ai-bots-guide"><img src="assets/book-ai-bots-guide.jpg" width="190" alt="AI Bots 通关指南" /></a><br><a href="https://2aran.com/books/ai-bots-guide">AI Bots 通关指南</a></td>
+</tr>
+</table>
 
 | Work | Year | Format |
 | :--- | :---: | :--- |
@@ -58,3 +69,5 @@ Public GitHub activity rendered by [Activity Graph](https://github.com/Ashutosh0
 ## Connect
 
 [GitHub](https://github.com/TUARAN) · [LinkedIn](https://www.linkedin.com/in/%E6%B6%82%E9%98%BF%E7%87%83-tuaran-473841210/) · [Juejin](https://juejin.cn/user/1521379823340792) · [Xiaohongshu](https://www.xiaohongshu.com/user/profile/68b313f9000000001901d07e) · [CSDN](https://blog.csdn.net/aifs2025) · [51CTO](https://blog.51cto.com/u_15298598) · [Email](mailto:tuaran666@gmail.com)
+
+<sub>Intro animation: [readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) · [MIT license](assets/typing-svg-LICENSE.txt). Book covers: [2aran.com](https://2aran.com/publications).</sub>
