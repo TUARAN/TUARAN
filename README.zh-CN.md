@@ -67,11 +67,19 @@ AI 前沿部署工程师、技术作者、矩联科技创始人。研究 AI Agen
 
 ## 网站与项目
 
-| 内容与创作 | 产品与工具 |
-| :--- | :--- |
-| **[🧭 2aran.com](https://2aran.com)**<br>文章 · 调研 · 作品 | **[📰 前端周看](https://weekly.2aran.com/)**<br>前端与 AI 工程周刊 |
-| **[✍️ SyncBlog](https://syncblog.2aran.com/)**<br>Markdown 与多平台发布 | **[📊 从夯到拉](https://rank.2aran.com/)**<br>AI 产品分级与比较 |
-| **[🧰 Toolbox](https://2aran.com/tools)**<br>开发者工具 | **[🔌 Agent Resources](https://2aran.com/skill-center)**<br>[Skill](https://2aran.com/skill-center) · [MCP](https://2aran.com/mcp-center) |
+[**2aran.com**](https://2aran.com) · AI 工程、内容创作与开发者社区
+
+| 内容与阅读 | 产品与能力 | 工具与应用 |
+| :--- | :--- | :--- |
+| **[📚 内容中心](https://2aran.com/articles)**<br>文章、分析与工程实践 | **[🚀 产品集](https://2aran.com/works)**<br>独立产品与工程作品 | **[🧰 工具与下载](https://2aran.com/tools)**<br>在线工具、扩展与应用 |
+| **[📰 前端周看](https://2aran.com/frontend-weekly)**<br>每周前端与 AI 工程情报 | **[🔌 Agent 能力集](https://2aran.com/capabilities)**<br>Skill、MCP、Prompt 与能力包 | **[⛏️ 代码矿工](https://2aran.com/tools/code-miner)**<br>开发者工具集合 |
+| **[🗂️ 资源中心](https://2aran.com/resources)**<br>馆藏、下载与订阅 | **[✍️ AI分发大师](https://syncblog.cn/)**<br>一次创作，多平台同步分发 | **[🧠 端侧大模型](https://2aran.com/web-llm)**<br>浏览器端大模型实验 |
+
+**参与与交流**：[圈子](https://2aran.com/circles) · [交流广场](https://2aran.com/community) · [签到中心](https://2aran.com/checkin)
+
+**合作**：[合作说明](https://2aran.com/services) · [博主联盟](https://blogger-alliance.cn/) · [矩联科技](https://matrixlink.tech)
+
+[全部站点板块 →](https://2aran.com/help)
 
 ## GitHub 活动
 

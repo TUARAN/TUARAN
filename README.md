@@ -67,11 +67,19 @@ As of **2026-11-18**, **29 PRs** merged across **6 external open-source projects
 
 ## Websites and Projects
 
-| Content & creation | Products & tools |
-| :--- | :--- |
-| **[🧭 2aran.com](https://2aran.com)**<br>Articles · research · publications | **[📰 Frontend Weekly](https://weekly.2aran.com/)**<br>Frontend & AI engineering |
-| **[✍️ SyncBlog](https://syncblog.2aran.com/)**<br>Markdown & multi-platform publishing | **[📊 AI Product Rank](https://rank.2aran.com/)**<br>AI product rankings & comparisons |
-| **[🧰 Toolbox](https://2aran.com/tools)**<br>Developer utilities | **[🔌 Agent Resources](https://2aran.com/skill-center)**<br>[Skill](https://2aran.com/skill-center) · [MCP](https://2aran.com/mcp-center) |
+[**2aran.com**](https://2aran.com) · AI engineering, technical publishing & developer community
+
+| Content & Reading | Products & Capabilities | Tools & Apps |
+| :--- | :--- | :--- |
+| **[📚 Content](https://2aran.com/articles)**<br>Articles, analysis & engineering practice | **[🚀 Portfolio](https://2aran.com/works)**<br>Products & engineering works | **[🧰 Tools & Downloads](https://2aran.com/tools)**<br>Online tools, extensions & apps |
+| **[📰 Frontend Weekly](https://2aran.com/frontend-weekly)**<br>Weekly frontend & AI engineering | **[🔌 Agent Capabilities](https://2aran.com/capabilities)**<br>Skills, MCP, prompts & packages | **[⛏️ Code Miner](https://2aran.com/tools/code-miner)**<br>Developer tool collection |
+| **[🗂️ Resources](https://2aran.com/resources)**<br>Library, downloads & subscriptions | **[✍️ SyncBlog](https://syncblog.cn/)**<br>Write once, publish across platforms | **[🧠 On-device LLM](https://2aran.com/web-llm)**<br>In-browser LLM experiments |
+
+**Join & Connect**: [Circles](https://2aran.com/circles) · [Community](https://2aran.com/community) · [Check-in](https://2aran.com/checkin)
+
+**Collaborate**: [Services](https://2aran.com/services) · [Blogger Alliance](https://blogger-alliance.cn/) · [MatrixLink](https://matrixlink.tech)
+
+[Explore all site sections →](https://2aran.com/help)
 
 ## GitHub Activity
 
