@@ -1,0 +1,217 @@
+{
+  "asOf": "2026-11-18",
+  "query": "is:pr is:merged author:TUARAN -user:TUARAN",
+  "total": 29,
+  "repositories": [
+    {
+      "repository": "openclaw/openclaw",
+      "count": 12,
+      "pullRequests": [
+        {
+          "number": 179000,
+          "title": "fix(crabbox): reject non-decimal run timeouts",
+          "url": "https://github.com/openclaw/openclaw/pull/179000",
+          "mergedAt": "2026-10-23T09:17:31Z"
+        },
+        {
+          "number": 170527,
+          "title": "fix: trigger model fallback for provider-wrapped errors",
+          "url": "https://github.com/openclaw/openclaw/pull/170527",
+          "mergedAt": "2026-10-13T05:09:12Z"
+        },
+        {
+          "number": 169537,
+          "title": "fix: avoid duplicate deferred tool results",
+          "url": "https://github.com/openclaw/openclaw/pull/169537",
+          "mergedAt": "2026-10-14T03:20:35Z"
+        },
+        {
+          "number": 167581,
+          "title": "fix(agents): restore full plugin tool inventory",
+          "url": "https://github.com/openclaw/openclaw/pull/167581",
+          "mergedAt": "2026-10-23T02:57:27Z"
+        },
+        {
+          "number": 164357,
+          "title": "fix(ui): refresh automation models after team agent switch",
+          "url": "https://github.com/openclaw/openclaw/pull/164357",
+          "mergedAt": "2026-10-07T02:49:20Z"
+        },
+        {
+          "number": 148022,
+          "title": "fix(cli): show UTC marker in sessions tail",
+          "url": "https://github.com/openclaw/openclaw/pull/148022",
+          "mergedAt": "2026-10-07T02:50:28Z"
+        },
+        {
+          "number": 120104,
+          "title": "fix(channels): bound errored ingress settlements",
+          "url": "https://github.com/openclaw/openclaw/pull/120104",
+          "mergedAt": "2026-08-15T04:17:18Z"
+        },
+        {
+          "number": 113200,
+          "title": "fix(doctor): honor configured plugin load paths",
+          "url": "https://github.com/openclaw/openclaw/pull/113200",
+          "mergedAt": "2026-07-28T03:06:02Z"
+        },
+        {
+          "number": 102537,
+          "title": "fix: normalize unsupported Anthropic inline images",
+          "url": "https://github.com/openclaw/openclaw/pull/102537",
+          "mergedAt": "2026-07-21T18:31:25Z"
+        },
+        {
+          "number": 98320,
+          "title": "fix(feishu): fall back media replies",
+          "url": "https://github.com/openclaw/openclaw/pull/98320",
+          "mergedAt": "2026-07-21T05:52:09Z"
+        },
+        {
+          "number": 91553,
+          "title": "fix(tailscale): retry status json after serve startup",
+          "url": "https://github.com/openclaw/openclaw/pull/91553",
+          "mergedAt": "2026-07-21T15:43:57Z"
+        },
+        {
+          "number": 90517,
+          "title": "fix(gateway): hint missing external plugin for web login",
+          "url": "https://github.com/openclaw/openclaw/pull/90517",
+          "mergedAt": "2026-07-01T08:04:10Z"
+        }
+      ]
+    },
+    {
+      "repository": "juejin-cn/juejin-usage",
+      "count": 10,
+      "pullRequests": [
+        {
+          "number": 294,
+          "title": "fix(core): 限制 ZCode 消息快照数量",
+          "url": "https://github.com/juejin-cn/juejin-usage/pull/294",
+          "mergedAt": "2026-11-08T08:42:10Z"
+        },
+        {
+          "number": 286,
+          "title": "fix(core): 延后提交缺少时间戳的 Codex 累计快照",
+          "url": "https://github.com/juejin-cn/juejin-usage/pull/286",
+          "mergedAt": "2026-11-08T03:17:12Z"
+        },
+        {
+          "number": 275,
+          "title": "fix(core): 限制 Codex 增量去重键数量",
+          "url": "https://github.com/juejin-cn/juejin-usage/pull/275",
+          "mergedAt": "2026-11-07T12:13:20Z"
+        },
+        {
+          "number": 270,
+          "title": "fix(core): 延后缺少时间戳的 Every Code 累计游标",
+          "url": "https://github.com/juejin-cn/juejin-usage/pull/270",
+          "mergedAt": "2026-10-24T07:43:22Z"
+        },
+        {
+          "number": 264,
+          "title": "fix(core): defer cursors until timestamps exist",
+          "url": "https://github.com/juejin-cn/juejin-usage/pull/264",
+          "mergedAt": "2026-10-20T02:43:06Z"
+        },
+        {
+          "number": 251,
+          "title": "fix(core): 保留 Codex 缓存输入累计差值",
+          "url": "https://github.com/juejin-cn/juejin-usage/pull/251",
+          "mergedAt": "2026-10-15T09:19:45Z"
+        },
+        {
+          "number": 239,
+          "title": "fix(desktop): show unavailable Qoder subscription state",
+          "url": "https://github.com/juejin-cn/juejin-usage/pull/239",
+          "mergedAt": "2026-10-13T09:39:03Z"
+        },
+        {
+          "number": 222,
+          "title": "fix(core): 容错 Cursor 响应正文超时",
+          "url": "https://github.com/juejin-cn/juejin-usage/pull/222",
+          "mergedAt": "2026-10-02T07:44:30Z"
+        },
+        {
+          "number": 204,
+          "title": "fix(desktop): 便携版禁用安装器自动更新",
+          "url": "https://github.com/juejin-cn/juejin-usage/pull/204",
+          "mergedAt": "2026-09-25T07:49:25Z"
+        },
+        {
+          "number": 112,
+          "title": "fix(cli): 校验 --port 参数",
+          "url": "https://github.com/juejin-cn/juejin-usage/pull/112",
+          "mergedAt": "2026-09-12T10:03:05Z"
+        }
+      ]
+    },
+    {
+      "repository": "xitu/gold-miner",
+      "count": 4,
+      "pullRequests": [
+        {
+          "number": 5875,
+          "title": "将第三方动画库集成到项目中 —— 第 1 部分",
+          "url": "https://github.com/xitu/gold-miner/pull/5875",
+          "mergedAt": "2019-06-10T00:54:15Z"
+        },
+        {
+          "number": 5309,
+          "title": "2019,跟上 AI 的脚步：AI 和 ML 接下来会发生什么重要的事？",
+          "url": "https://github.com/xitu/gold-miner/pull/5309",
+          "mergedAt": "2019-03-11T03:13:34Z"
+        },
+        {
+          "number": 5230,
+          "title": "Create How I finally got my head around Scoped Slots in Vue.md",
+          "url": "https://github.com/xitu/gold-miner/pull/5230",
+          "mergedAt": "2019-02-26T02:29:13Z"
+        },
+        {
+          "number": 5191,
+          "title": "Create event-stoppropagation-in-a-modular-system.md",
+          "url": "https://github.com/xitu/gold-miner/pull/5191",
+          "mergedAt": "2019-02-22T04:53:57Z"
+        }
+      ]
+    },
+    {
+      "repository": "KunAgent/Kun",
+      "count": 1,
+      "pullRequests": [
+        {
+          "number": 73,
+          "title": "fix(a11y): sync <html lang> with the active i18n locale",
+          "url": "https://github.com/KunAgent/Kun/pull/73",
+          "mergedAt": "2026-06-08T14:01:08Z"
+        }
+      ]
+    },
+    {
+      "repository": "accomplish-ai/coworker",
+      "count": 1,
+      "pullRequests": [
+        {
+          "number": 855,
+          "title": "fix(mcp): use 127.0.0.1 instead of localhost in permission MCP tools",
+          "url": "https://github.com/accomplish-ai/coworker/pull/855",
+          "mergedAt": "2026-04-09T05:43:40Z"
+        }
+      ]
+    },
+    {
+      "repository": "doocs/cose",
+      "count": 1,
+      "pullRequests": [
+        {
+          "number": 242,
+          "title": "fix(wechat): pick body ProseMirror when title is also ProseMirror",
+          "url": "https://github.com/doocs/cose/pull/242",
+          "mergedAt": "2026-05-20T14:57:19Z"
+        }
+      ]
+    }
+  ]
+}
