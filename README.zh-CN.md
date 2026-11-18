@@ -8,12 +8,19 @@ AI 前沿部署工程师、技术作者、矩联科技创始人。研究 AI Agen
 
 ## 一些数字
 
+![个人数据概览](assets/profile-metrics-zh.svg)
+
+<details>
+<summary>数据明细（沿用个人简介口径，非实时统计）</summary>
+
 | | |
 | :--- | :--- |
 | **1500+** | 公开内容 / 发帖 |
 | **百万+ / 月** | 内容曝光量 |
 | **4** | 已出版 / 发布作品 |
 | **12** | 合并至 OpenClaw 主分支的 PR |
+
+</details>
 
 ## 我在做什么
 
@@ -36,11 +43,17 @@ AI 前沿部署工程师、技术作者、矩联科技创始人。研究 AI Agen
 
 ## 网站与项目
 
-- [2aran.com](https://2aran.com) — 文章、调研、作品与工具的长期索引
-- [前端周看](https://weekly.2aran.com/) — 前端、AI Agent 与大模型工程周刊
-- [SyncBlog](https://syncblog.2aran.com/) — Markdown 编辑与多平台内容发布
-- [从夯到拉](https://rank.2aran.com/) — AI 产品分级与比较
-- [工具箱](https://2aran.com/tools) · [Skill 中心](https://2aran.com/skill-center) · [MCP 中心](https://2aran.com/mcp-center)
+| 内容与创作 | 产品与工具 |
+| :--- | :--- |
+| **[🧭 2aran.com](https://2aran.com)**<br>文章 · 调研 · 作品 | **[📰 前端周看](https://weekly.2aran.com/)**<br>前端与 AI 工程周刊 |
+| **[✍️ SyncBlog](https://syncblog.2aran.com/)**<br>Markdown 与多平台发布 | **[📊 从夯到拉](https://rank.2aran.com/)**<br>AI 产品分级与比较 |
+| **[🧰 Toolbox](https://2aran.com/tools)**<br>开发者工具 | **[🔌 Agent Resources](https://2aran.com/skill-center)**<br>[Skill](https://2aran.com/skill-center) · [MCP](https://2aran.com/mcp-center) |
+
+## GitHub 活动
+
+[![GitHub activity graph](https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=TUARAN&theme=github-compact&hide_border=true&area=true)](https://github.com/TUARAN?tab=overview)
+
+公开 GitHub 活动由 [Activity Graph](https://github.com/Ashutosh00710/github-readme-activity-graph) 动态生成；图片不可用时可点击查看 GitHub 记录。
 
 ## 联系我
 

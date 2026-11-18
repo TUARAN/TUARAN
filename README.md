@@ -8,12 +8,19 @@ AI deployment engineer, technical writer, and founder of [MatrixLink](https://ma
 
 ## At a Glance
 
+![Profile highlights](assets/profile-metrics-en.svg)
+
+<details>
+<summary>Text version · self-reported profile figures, not live statistics</summary>
+
 | | |
 | :--- | :--- |
 | **1,500+** | Technical articles and public posts |
 | **1M+ / month** | Content impressions |
 | **4** | Published works |
 | **12** | Pull requests merged into OpenClaw's main branch |
+
+</details>
 
 ## What I Do
 
@@ -36,11 +43,17 @@ AI deployment engineer, technical writer, and founder of [MatrixLink](https://ma
 
 ## Websites and Projects
 
-- [2aran.com](https://2aran.com) — Long-term index of articles, research, projects, and tools
-- [Frontend Weekly](https://weekly.2aran.com/) — Frontend, AI agent, and LLM engineering news
-- [SyncBlog](https://syncblog.2aran.com/) — Markdown editing and multi-platform publishing
-- [AI Product Rank](https://rank.2aran.com/) — AI product rankings and comparisons
-- [Toolbox](https://2aran.com/tools) · [Skill Center](https://2aran.com/skill-center) · [MCP Center](https://2aran.com/mcp-center)
+| Content & creation | Products & tools |
+| :--- | :--- |
+| **[🧭 2aran.com](https://2aran.com)**<br>Articles · research · publications | **[📰 Frontend Weekly](https://weekly.2aran.com/)**<br>Frontend & AI engineering |
+| **[✍️ SyncBlog](https://syncblog.2aran.com/)**<br>Markdown & multi-platform publishing | **[📊 AI Product Rank](https://rank.2aran.com/)**<br>AI product rankings & comparisons |
+| **[🧰 Toolbox](https://2aran.com/tools)**<br>Developer utilities | **[🔌 Agent Resources](https://2aran.com/skill-center)**<br>[Skill](https://2aran.com/skill-center) · [MCP](https://2aran.com/mcp-center) |
+
+## GitHub Activity
+
+[![GitHub activity graph](https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=TUARAN&theme=github-compact&hide_border=true&area=true)](https://github.com/TUARAN?tab=overview)
+
+Public GitHub activity rendered by [Activity Graph](https://github.com/Ashutosh00710/github-readme-activity-graph). Click the chart to view the GitHub record if the image is unavailable.
 
 ## Connect
 
