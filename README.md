@@ -50,7 +50,20 @@ AI deployment engineer, technical writer, and founder of [MatrixLink](https://ma
 
 ## Open Source
 
-**12 PRs** have been merged into [openclaw/openclaw](https://github.com/openclaw/openclaw/pulls?q=is%3Apr+author%3ATUARAN+is%3Amerged), covering model fallback, tool results and plugin inventory, messaging channels, CLI, and gateway behavior. See the [OpenClaw contribution record](https://2aran.com/about#openclaw-contributions) for the individual changes.
+![Merged PR contribution matrix](assets/contribution-matrix-en.svg)
+
+As of **2026-11-18**, **29 PRs** merged across **6 external open-source projects**. Each colored square represents one merged PR; repositories owned by TUARAN are excluded.
+
+| Project | Merged | PR records |
+| :--- | ---: | :--- |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [12](https://github.com/openclaw/openclaw/pulls?q=is%3Apr+author%3ATUARAN+is%3Amerged) | [#179000](https://github.com/openclaw/openclaw/pull/179000) · [#170527](https://github.com/openclaw/openclaw/pull/170527) · [#169537](https://github.com/openclaw/openclaw/pull/169537) · [#167581](https://github.com/openclaw/openclaw/pull/167581) · [#164357](https://github.com/openclaw/openclaw/pull/164357) · [#148022](https://github.com/openclaw/openclaw/pull/148022) · [#120104](https://github.com/openclaw/openclaw/pull/120104) · [#113200](https://github.com/openclaw/openclaw/pull/113200) · [#102537](https://github.com/openclaw/openclaw/pull/102537) · [#98320](https://github.com/openclaw/openclaw/pull/98320) · [#91553](https://github.com/openclaw/openclaw/pull/91553) · [#90517](https://github.com/openclaw/openclaw/pull/90517) |
+| [juejin-cn/juejin-usage](https://github.com/juejin-cn/juejin-usage) | [10](https://github.com/juejin-cn/juejin-usage/pulls?q=is%3Apr+author%3ATUARAN+is%3Amerged) | [#294](https://github.com/juejin-cn/juejin-usage/pull/294) · [#286](https://github.com/juejin-cn/juejin-usage/pull/286) · [#275](https://github.com/juejin-cn/juejin-usage/pull/275) · [#270](https://github.com/juejin-cn/juejin-usage/pull/270) · [#264](https://github.com/juejin-cn/juejin-usage/pull/264) · [#251](https://github.com/juejin-cn/juejin-usage/pull/251) · [#239](https://github.com/juejin-cn/juejin-usage/pull/239) · [#222](https://github.com/juejin-cn/juejin-usage/pull/222) · [#204](https://github.com/juejin-cn/juejin-usage/pull/204) · [#112](https://github.com/juejin-cn/juejin-usage/pull/112) |
+| [xitu/gold-miner](https://github.com/xitu/gold-miner) | [4](https://github.com/xitu/gold-miner/pulls?q=is%3Apr+author%3ATUARAN+is%3Amerged) | [#5875](https://github.com/xitu/gold-miner/pull/5875) · [#5309](https://github.com/xitu/gold-miner/pull/5309) · [#5230](https://github.com/xitu/gold-miner/pull/5230) · [#5191](https://github.com/xitu/gold-miner/pull/5191) |
+| [KunAgent/Kun](https://github.com/KunAgent/Kun) | [1](https://github.com/KunAgent/Kun/pulls?q=is%3Apr+author%3ATUARAN+is%3Amerged) | [#73](https://github.com/KunAgent/Kun/pull/73) |
+| [accomplish-ai/coworker](https://github.com/accomplish-ai/coworker) | [1](https://github.com/accomplish-ai/coworker/pulls?q=is%3Apr+author%3ATUARAN+is%3Amerged) | [#855](https://github.com/accomplish-ai/coworker/pull/855) |
+| [doocs/cose](https://github.com/doocs/cose) | [1](https://github.com/doocs/cose/pulls?q=is%3Apr+author%3ATUARAN+is%3Amerged) | [#242](https://github.com/doocs/cose/pull/242) |
+
+[Source query](https://github.com/search?q=is%3Apr+is%3Amerged+author%3ATUARAN+-user%3ATUARAN&type=pullrequests) · [Data snapshot](assets/merged-contributions.json). Counts are a dated snapshot, not live statistics.
 
 ## Websites and Projects
 
